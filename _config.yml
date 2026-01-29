@@ -101,7 +101,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-829BHZJPBN # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-829BHZJPBN # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -166,7 +166,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-target-blank
-  - jekyll-twitter-plugin
+
   - jemoji
 
 # Sitemap settings
