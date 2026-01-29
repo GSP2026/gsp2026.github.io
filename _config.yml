@@ -4,12 +4,12 @@
 
 title: Graph Signal Processing Workshop # the website title (if blank, full name will be used instead)
 header: Home
-first_name: Graph Signal Processing Workshop 2025
+first_name: Graph Signal Processing Workshop 2026
 middle_name:
 last_name:
-email: gsp.2025@mila.quebec
+email: gsp.2026@mila.quebec
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  GSP Workshop 2025.
+  GSP Workshop 2026.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -18,7 +18,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://gsp2025.github.io # the base hostname & protocol for your site
+url: https://gsp2026.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
