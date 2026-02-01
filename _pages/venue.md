@@ -6,108 +6,105 @@ description:
 nav: true
 nav_order: 1
 
-top_image: /assets/img/gsp25/mila_header.jpg
-top_image_alt: "Mila -- Quebec AI Institute"
+top_image: /assets/img/banners/banner_oso_GSP2.png
+top_image_alt: "Madrid, Spain"
 ---
 
 ### Venue
-GSP 2025 will take place at [Mila -- Quebec AI Institute](https://mila.quebec/en), one of the world's biggest AI research institutes, located in the vibrant Mile-Ex neighborhood of Montréal.
+GSP 2026 will take place at **Universidad Rey Juan Carlos, Campus de Quintana**, located in the center of Madrid.
 
-**Address:** <br>
-Mila - Quebec AI Institute <br>
-6650 Saint-Urbain Street, Suite 200 <br>
-Montréal, Quebec, H2S 3H1 <br>
-Canada
-
-<div class="row justify-content-sm-center">
+<div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp25/mila.png" title="Mila entrance" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/madrid/campus_quintana.jpg" title="Sede Madrid - Quintana" class="img-fluid rounded z-depth-1" alt="Campus Quintana entry" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp25/mtl.jpg" title="Montreal skyline" class="img-fluid rounded z-depth-1" alt="Responsive image"%}
+    <div class="col-sm-6">
+        <p>
+            <strong>Address:</strong><br>
+            Universidad Rey Juan Carlos (Sede Madrid - Quintana)<br>
+            <a href="https://www.google.com/maps/search/?api=1&query=Calle+Quintana+21+28008+Madrid+Spain">Calle Quintana, 21</a><br>
+            28008 Madrid<br>
+            Spain
+        </p>
     </div>
 </div>
-
 
 ---
 ### How to get there
 
-Mile-Ex is a dynamic neighborhood known for its mix of industrial charm and cutting-edge innovation. It's home to a thriving arts scene, excellent restaurants, and tech startups. It is also well-connected to the rest of the city via Montreal’s STM metro and bus system.
+The venue is located in the **Argüelles** neighborhood in central Madrid, very well connected by public transport.
 
-**Transit apps:** The STM-recommended transit apps are [Transit](https://transitapp.com/) and [Chrono](https://www.artm.quebec/en/chrono-mobile-application/), both are highly recommended. Transit has a nicer interface, but Chrono allows users to top-up their OPUS transit cards through the app. Google/Apple maps also work reasonably well.
+**By Metro:** <br>
+The closest metro stations are:
++ **Argüelles**: Lines 3 (Yellow), 4 (Brown), and 6 (Grey/Circular). A 5-minute walk from the venue.
++ **Ventura Rodríguez**: Line 3 (Yellow).
 
-**Montréal (YUL) airport to the city:** From the airport you can take the express 747 bus to downtown, and switch to metro/bus lines from there.
-+ To arrive at the Mile-Ex neighborhood, the easiest way to go is to get off the 747 bus at the Lionel-Groulx metro station, and take the orange metro line to Beaubien/Jean-Talon stations.
-+ You'll need an OPUS card for all modes of transport. You can either buy a 10-ride pass, or a multi-day or weekly pass. Note that transport to/from the airport requires an additional pass that is slightly more expensive, but is typically covered by the multi-day/weekly/weekend passes. There is personnel by the ticket machines at the airport, so it's a good idea to check with them to make sure you're buying the right ticket if you have any doubts.
+**By Bus:** <br>
+Several EMT bus lines stop nearby: 1, 2, 21, 44, 74, 133, and C2.
 
-**Getting to Mila by public transport:** The nearest metro stations are De Castelnau (Blue line), Beaubien (Orange line) and Jean-Talon (both Blue and Orange lines), all a short 10-15-minute walk from the venue. You can also take the 55 bus from De Castelnau, 160/18 buses from Beaubien, and 92/31 buses from Jean-Talon to shorten the walk. Multiple other bus lines, including the very frequent 55 and 80, also serve the area.
-
-**By taxi/rideshare/car:** Both taxis and rideshare services (Uber/Lyft) are readily available in Montreal. If you're driving yourself, do keep in mind that street parking in the surrounding area is available but limited.
-
-**By bike:** Montreal is very bike-friendly, and [BIXI bike-sharing](https://bixi.com/en/) is very popular particularly in the warmer months with multiple stations available around Mila.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp25/old_mtl.webp" title="Old Montreal" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
-    </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp25/little_italy.jpg" title="Little Italy" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
-    </div>
-</div>
+**From the Airport (Adolfo Suárez Madrid-Barajas):** <br>
++ **Metro**: Take **Line 8 (Pink)** from the airport to **Nuevos Ministerios**. Transfer to **Line 6 (Grey/Circular)** regarding Moncloa/Argüelles. Get off at **Argüelles**. The total trip takes about 45 minutes.
++ **Taxi**: There is a fixed rate (approx. 30-33€) for trips from the airport to the city center (inside the M-30 ring road).
++ **Express Bus**: The yellow "Exprés Aeropuerto" (Line 203) connects the airport to Cibeles and Atocha stations (24h). From there you can connect to the Metro.
 
 ---
 ### Accommodation
 
-For your stay in Montreal, you are welcome to choose between two of the city’s most iconic neighborhoods, Plateau and Mile End, each with its own unique vibe. We have arranged a hotel in each neighborhood to provide discounts for our attendees, though other accommodations may of course be available.
+For your stay in Madrid, we recommend the following hotels located within walking distance of the venue (URJC Quintana).
 
-The [Boulevard Suites](https://boulevardsuites-reservations.m11collection.com/en/properties) in Plateau Mont-Royal offers a lively, central location with vibrant streets, charming cafés, parks, and nightlife—all within easy reach of downtown. This hotel is located 15 minutes bike ride/ 10 minutes by Uber and 20 minutes by public transport from Mila.
-
-Just next door, [Le Mile End Hotel](https://lemileendhotel-reservations.m11collection.com/en/properties) has a more relaxed, artsy feel, known for its indie boutiques, famous bagels, and creative culture.This hotel is located 10 minutes by bike or Uber ride from Mila.
-
-Please use the discount code **GSP2025** for 15% off your reservation in either property. In the case that no space is available in these properties, the discount code is also valid for other M11 hotels in Montreal, [bookable from here](https://www.m11collection.com).
++ **[Hotel Indigo Madrid - Princesa](https://www.ihg.com/hotelindigo/hotels/us/en/madrid/madpp/hoteldetail)** (3 min walk - 250m): A boutique hotel with a modern design, located just steps away from the venue.
++ **[Muralto Madrid Princesa](https://www.muraltomadridprincesa.com/)** (3 min walk - 250m): Apartment-style hotel offering spacious rooms with kitchenettes, ideal for families or longer stays.
++ **[Madrid Marriott Hotel Princesa Plaza](https://www.marriott.com/en-us/hotels/madbp-madrid-marriott-hotel-princesa-plaza/overview/)** (5 min walk - 400m): A large, full-service hotel with extensive amenities, located near the Argüelles metro station.
++ **[Leonardo Hotel Madrid City Center](https://www.leonardo-hotels.com/madrid/leonardo-hotel-madrid-city-center)** (5-7 min walk - 450m): A comfortable hotel located in the Chamberí district, a short walk from the venue.
++ **[Exe Moncloa](https://www.eurostarshotels.com/exe-moncloa.html)** (7 min walk - 550m): Modern hotel located right next to the Moncloa transport hub, featuring a rooftop terrace with views.
++ **[RIU Plaza España](https://www.riu.com/en/hotel/spain/madrid/hotel-riu-plaza-espana/)** (15 min walk - 1.1 km): Iconic hotel in the Edificio España with a famous rooftop sky bar offering 360º views of Madrid.
 
 ---
 ### Restaurants and bars
 
-Montréal has an amazing food scene, with more restaurants and cafes per square kilometre than anywhere in the Americas. The city has a massive variety of food options, from diners and fast food to haute cuisine to the incredible vegan diversity across a plethora of cuisines. We won't attempt to do any justice to the scene, but will note down some suggestions for some Montreal classics and convenient places in the Mile-Ex/Little Italy area.
-+ **Bagels:** St-Viateur's and Fairmount Bagels.
-+ **Smoked meat:** Schwartz's Deli is the most authentic, but plenty of other places offer quality smoked meat sandwiches.
-+ **Poutine:** Where you'll find the best poutine in Montreal is a very... divisive topic. La Banquise, Greenspot, Ma Poule Mouillée, Chez Tousignant, Chez Claudette, Chez Ma Tante, Frite alors!, Paulo & Suzanne... Good luck picking one!
-+ **Around Mile-Ex/Little Italy:** Le Pick Up, Cafe Guerrero, Pumpui, San Gennaro are great for quick bites, with many good Italian cafes nearby. Cicchetti, Vices & Versa, Bar St-Denis and Wills are great for afternoon/evening drinks & food.
-+ If you're looking for something different, Au Pied De Cochon in Le Pleateau is a staple for a bit fancier but super hearty Quebecois food. Lots of meat, foie-gras and poutine involved.
-+ Many places offer vegetarian/vegan options, but several suggestions particularly focused on vegetarian/vegan food: Lola Rosa, Aux Vivres, Shushu Haru, Cafe Santropol, Bloom Sushi...
+Madrid has an amazing food scene, with a massive variety of options ranging from traditional taverns to avant-garde Michelin-starred restaurants. The city is famous for its **tapas** culture, where small plates are shared in a lively atmosphere.
 
+Some local classics you shouldn't miss:
++ **Bocadillo de calamares**: A simple but delicious fried squid sandwich, synonymous with Madrid.
++ **Cocido Madrileño**: A hearty chickpea-based stew, typically served in three courses (soup, chickpeas/veggies, meat).
++ **Churros con chocolate**: The ultimate treat, perfect for breakfast or a late-night snack.
++ **Tapas**: Croquetas, Patatas Bravas, Jamón Ibérico, and Tortilla de Patata are staples found everywhere.
 
+#### Iconic places to eat (City Center)
++ **[Mercado de San Miguel](https://mercadodesanmiguel.es/)**: Located near Plaza Mayor, this historic iron-structure market is a gastronomic temple offering high-quality tapas and fresh produce. It’s perfect for sampling a bit of everything.
++ **[Sobrino de Botín](https://botin.es/)**: Founded in 1725, it holds the Guinness World Record as the oldest restaurant in the world. Famous for its roast suckling pig (*cochinillo*) and lamb roasted in a wood-fired oven.
++ **[Chocolatería San Ginés](https://chocolateriasangines.com/)**: Open since 1894, this is the most famous place in Madrid to have chocolate with churros. A classic stop near Puerta del Sol.
++ **[Edén Gastrobar (RIU Plaza España)](https://www.riu.com/en/hotel/spain/madrid/hotel-riu-plaza-espana/)**: Located on the 26th floor of the Edificio España in **Plaza de España**, this gastrobar offers tapas and drinks with breathtaking panoramic views of the city.
++ **[Casa Labra](https://www.casalabra.es/)**: A historic tavern near Sol founded in 1860, famous for its fried cod (*tajadas de bacalao*) and cod croquettes.
+
+<br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp25/mmfa.avif" title="Montreal Museum of Fine Arts" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/madrid/mercado_san_miguel.jpg" title="Mercado de San Miguel" class="img-fluid rounded z-depth-1" alt="Mercado de San Miguel" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp25/lachine_canal.avif" title="Lachine Canal" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/madrid/plaza_españa1.jpg" title="Plaza de España" class="img-fluid rounded z-depth-1" alt="Plaza de España" %}
     </div>
-
 </div>
 
 ---
 ### Sightseeing
 
-+ Old Montréal contains the vast majority of historical buildings, most dating from the 17th - 19th century, the Notre-Dame Basilica, and many museums. There is also a 45 meter clock tower located in the Quai de l'Horloge, originally called the Victoria Pier, which you can climb up and get breathtaking views of the St. Laurence river and to a lesser extent, the city.
-+ Mont-Royal is the extinct volcano the rises high above the city in the form of a large hill. The lookout at the top, known as the Belvédère, is a must-see, after walking through the Mont-Royal park.
-+ Le Plateau/Mile End combines scenic residential streets, street art, mesmerizingly hip shopping, drinking and dining. The Mile End, an area of Le Plateau, offers some of the best drinking and dining in the city. It is just south of Mile-Ex, and thus easy to get to from Mila. Several streets are also pedestrianized during the summer months and are very pleasant to walk through.
-+ Hochelaga-Maisonneuve is where the Olympic Stadium, Insectarium, Jardin Botanique, and Biodôme is located. Rue Ontario, between Pie-IX boulevard and Frontenac, becomes pedestrianized during the summer months and offers a glimpse into local culture, centering at Place Valois. Rue Adam and Rue La Fontaine (two streets down from Ontario), between avenue Morgan and rue Joliette, offer a plethora of quintessentially Montreal architectural styles. The Maisonneuve market is also there.
-+ Downtown: Skyscrapers, McGill campus, churches, and museums.
-+ Parc Jean-Drapeau, site of the 1967 World's Fair, now devoted to green spaces and a large outdoor concert venue. The Gilles Villeneuve racing circuit, home of the Montreal Formula 1 Grand Prix. An artificial beach, a huge outdoor pool complex and the Montreal Casino are also located on or around the park.
-+ The Lachine Canal, just west of the old port, offers an interesting walk along a now defunct but sprawling industrial zone that has since been turned into an endless amount of condos. Walking here from Old Montreal is very doable, and brings you to the open air Atwater Market -- a Montreal favourite. The Canal also passes through the hip Saint Henri neighbourhood where some of Montreal's best restaurants can be found.
-+ Saint Joseph's Oratory is Canada's largest church. It was built on Mount Royal's Westmount Summit which gives a stunning view of the city, especially at sunset.
+Madrid is a vibrant city with a rich history and art scene. Here are some key landmarks you should visit:
+
++ **[El Retiro Park](https://www.esmadrid.com/en/tourist-information/parque-del-retiro)**: A UNESCO World Heritage Site and the "green lung" of Madrid. Perfect for a relaxing walk, boating on the lake, or visiting the Crystal Palace.
++ **[Royal Palace of Madrid](https://www.patrimonionacional.es/en/visita/royal-palace-madrid)**: The largest royal palace in Western Europe. Official residence of the Spanish Royal Family, though now used only for state ceremonies. The armory and the painting gallery are highlights.
++ **[Museo del Prado](https://www.museodelprado.es/en)**: One of the world's most important art museums, featuring masterpieces by Velázquez, Goya, El Greco, and Bosch. A must-see for art lovers.
++ **[Plaza Mayor](https://www.esmadrid.com/en/tourist-information/plaza-mayor-madrid)**: The heart of Hapsburg Madrid. A grand arcaded square perfect for enjoying a calamari sandwich or just soaking in the atmosphere.
++ **[Puerta del Sol](https://www.esmadrid.com/en/tourist-information/puerta-del-sol)**: The center of the Spanish road network (Km 0) and home to the famous clock that rings in the New Year, as well as the statue of the Bear and the Strawberry Tree.
+
+<br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp25/victoria_square.avif" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/madrid/palacio_real1.jpg" title="Royal Palace" class="img-fluid rounded z-depth-1" alt="Royal Palace" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp25/plateau.jpg" title="Le Plateau" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/madrid/retiro1.jpg" title="El Retiro Park" class="img-fluid rounded z-depth-1" alt="El Retiro Park" %}
     </div>
-
 </div>
-

@@ -9,3 +9,6 @@ _site
 Gemfile.lock
 vendor
 
+
+LOCAL_GUIDE.md
+run_local.ps1
