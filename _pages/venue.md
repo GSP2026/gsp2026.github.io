@@ -10,8 +10,19 @@ top_image: /assets/img/banners/banner_oso_GSP2.png
 top_image_alt: "Madrid, Spain"
 ---
 
+### Passports and Visas
+
+Spain is a member of the **Schengen Area**. Citizens of the EU, EEA, and Switzerland do not need a visa to enter Spain. Many nationals from other countries (e.g., US, Canada, Australia, Japan, etc.) can also enter without a visa for stays of up to 90 days.
+
+However, some visitors may require a **Schengen Visa**. We recommend checking the official requirements well in advance.
+For definitive information, please visit the **[official website of the Ministry of Foreign Affairs](https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Visados-Schengen.aspx)**.
+
+---
 ### Venue
+
 GSP 2026 will take place at **Universidad Rey Juan Carlos, Campus de Quintana**, located in the center of Madrid.
+
+The venue is situated in the **Argüelles / Chamberí** area, a safe, lively, and university-oriented neighborhood in the heart of Madrid. It offers a perfect mix of residential calm and bustling commercial activity, with plenty of restaurants, shops, and cultural spots within walking distance.
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -31,20 +42,42 @@ GSP 2026 will take place at **Universidad Rey Juan Carlos, Campus de Quintana**,
 ---
 ### How to get there
 
-The venue is located in the **Argüelles** neighborhood in central Madrid, very well connected by public transport.
+The venue is exceptionally well connected by public transport.
 
-**By Metro:** <br>
-The closest metro stations are:
-+ **Argüelles**: Lines 3 (Yellow), 4 (Brown), and 6 (Grey/Circular). A 5-minute walk from the venue.
-+ **Ventura Rodríguez**: Line 3 (Yellow).
+#### Getting Around Madrid
+*   **Public Transport Card ("Tarjeta Multi")**: To use the Metro or buses, you need a reloadable red card called **"Tarjeta Multi"** (2.50€). You can buy it at the red machines in any Metro station or at tobacco shops (*estancos*).
+    *   **Tip**: The card is **shareable** (multi-personal), so a group can travel with a single card.
+    *   **Buses**: You can also pay directly on the bus with a contactless bank card (VISA/Mastercard).
+*   **Apps**: We recommend using **Google Maps**, **Citymapper**, or the official **Metro de Madrid** app to plan your routes.
 
-**By Bus:** <br>
-Several EMT bus lines stop nearby: 1, 2, 21, 44, 74, 133, and C2.
+#### 1. Arrival from the Airport (Adolfo Suárez Madrid-Barajas)
+The airport is about 12 km from the city center.
 
-**From the Airport (Adolfo Suárez Madrid-Barajas):** <br>
-+ **Metro**: Take **Line 8 (Pink)** from the airport to **Nuevos Ministerios**. Transfer to **Line 6 (Grey/Circular)** regarding Moncloa/Argüelles. Get off at **Argüelles**. The total trip takes about 45 minutes.
-+ **Taxi**: There is a fixed rate (approx. 30-33€) for trips from the airport to the city center (inside the M-30 ring road).
-+ **Express Bus**: The yellow "Exprés Aeropuerto" (Line 203) connects the airport to Cibeles and Atocha stations (24h). From there you can connect to the Metro.
+*   **Metro**: The most reliable option. Take **Line 8 (Pink)** from any terminal to **Nuevos Ministerios**. Transfer to **Line 6 (Grey/Circular)** regarding Moncloa/Argüelles. Get off at **Argüelles**.
+    *   *Duration*: ~45 mins.
+    *   *Cost*: ~5-6€ (includes a 3€ airport supplement).
+*   **Taxi**: Official taxis are white with a red stripe. There is a **flat rate of 33€** for trips between the airport and anywhere inside the M-30 ring road (which includes the venue and city center). No extra luggage fees should be charged for this flat rate.
+*   **Express Bus**: The yellow **"Exprés Aeropuerto" (Line 203)** runs 24/7. It connects the airport to **Cibeles** (city center) and **Atocha** (main train station).
+    *   *Cost*: 5€ (pay on board, cash or card).
+    *   From Cibeles or Atocha, you can take the bus or Metro to the venue.
+
+#### 2. Arrival by Train (Atocha or Chamartín Stations)
+If you are arriving by High-Speed Train (AVE/Renfe):
+
+*   **From Atocha Station**: Take Metro **Line 1 (Light Blue)** to *Sol*, then switch to **Line 3 (Yellow)** to *Ventura Rodríguez* or *Argüelles*. Alternatively, take the Circular bus **C1/C2**.
+*   **From Chamartín Station**: Take Metro **Line 10 (Dark Blue)** to *Alonso Martínez* or *Gregorio Marañón*, then switch to reach *Argüelles* (via Line 4 or Line 6).
+
+#### 3. Last Mile to the Venue
+The venue is just a short walk from several stations:
+
+*   **Metro Argüelles** (Lines 3, 4, 6): 5-minute walk.
+*   **Metro Ventura Rodríguez** (Line 3): 5-minute walk.
+*   **Bus**: Lines 1, 2, 21, 44, 74, 133, and C2 stop nearby.
+
+#### Other Transport Modes
+*   **Rideshare**: **Uber**, **Cabify**, and **Bolt** widely operate in Madrid.
+*   **Taxi App**: **FREENOW** is the main app to book official taxis.
+*   **Biking**: Madrid has a public electric bike system called **BiciMAD**. Be careful as traffic can be busy!
 
 ---
 ### Accommodation
