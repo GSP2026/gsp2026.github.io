@@ -66,10 +66,8 @@ html[data-theme='dark'] {
   }
 
   #ellis_logo {
-    content:url(/assets/img/logos/EUMLogoW.png);
-  }
-
-  #ellis_EPFL_logo {
-    content:url(/assets/img/logos/EPFL-Ellis-Lausanne-Unit-logoW.png);
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
   }
 }
