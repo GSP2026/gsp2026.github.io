@@ -11,7 +11,7 @@ top_image_alt: "GSP 2026 Madrid"
 ---
 
 #### Important Dates
-+ **Submissions open:** February 15, 2026
++ ~~**Submissions open:** February 15, 2026~~
 + **Submission deadline:** April 1, 2026
 + **Notification of acceptance:** April 10, 2026
 + **Early registration:** April 20, 2026

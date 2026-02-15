@@ -28,19 +28,20 @@ GSP 2026 is kindly supported by [Ellis Unit - Madrid](https://ellismadrid.es/).
 
 ---
 #### News
-+ **[2026/01/30]** The website for GSP 2026 is now up.
++ **[2026/02/13]** The website for GSP 2026 is now up.
++ **[2026/02/15]** Submission is now open!
 
 
 ---
 #### Important Dates
-+ **Submission open:** February 15, 2026
++ ~~**Submission open:** February 15, 2026~~
 + **Submission deadline:** April 1, 2026
 + **Notification of acceptance:** April 10, 2026
 + **Early registration:** April 20, 2026
 + **Workshop:** June 8-10, 2026
 
 ---
-#### Invited Speakers (Coomning soon)
+#### Invited Speakers (Coming soon)
 
 <br>
 <br>
@@ -52,9 +53,10 @@ GSP 2026 is kindly supported by [Ellis Unit - Madrid](https://ellismadrid.es/).
 #### Organizing Committee
 
 + [Antonio G. Marques](https://servicios.urjc.es/pdi/ver/antonio.garcia.marques), General Co-Chair
-+ [Samuel Rey](https://servicios.urjc.es/pdi/ver/samuel.rey.escudero), General Co-Chair
-+ [Sergio Rozada](https://servicios.urjc.es/pdi/ver/sergio.rozada), General Co-Chair
-+ [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3), Technical Program Chair
++ [David Ramirez](https://servicios.urjc.es/pdi/ver/david.ramirez), General Co-Chair
++ [Samuel Rey](https://servicios.urjc.es/pdi/ver/samuel.rey.escudero), General Chair
++ [Sergio Rozada](https://servicios.urjc.es/pdi/ver/sergio.rozada), General Chair
++ [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3) Technical Program Chair
 
 ---
 
