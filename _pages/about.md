@@ -52,11 +52,11 @@ GSP 2026 is kindly supported by [Ellis Unit - Madrid](https://ellismadrid.es/).
 ---
 #### Organizing Committee
 
-+ [Antonio G. Marques](https://servicios.urjc.es/pdi/ver/antonio.garcia.marques), General Co-Chair
-+ [David Ramirez](https://servicios.urjc.es/pdi/ver/david.ramirez), General Co-Chair
-+ [Samuel Rey](https://servicios.urjc.es/pdi/ver/samuel.rey.escudero), General Chair
-+ [Sergio Rozada](https://servicios.urjc.es/pdi/ver/sergio.rozada), General Chair
-+ [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3) Technical Program Chair
++ [Antonio G. Marques](https://servicios.urjc.es/pdi/ver/antonio.garcia.marques)
++ [David Ramirez](https://servicios.urjc.es/pdi/ver/david.ramirez)
++ [Samuel Rey](https://servicios.urjc.es/pdi/ver/samuel.rey.escudero)
++ [Sergio Rozada](https://servicios.urjc.es/pdi/ver/sergio.rozada)
++ [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3)
 
 ---
 
