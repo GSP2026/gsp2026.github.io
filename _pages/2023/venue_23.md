@@ -5,7 +5,7 @@ title: Venue
 description: 
 nav: false
 
-top_image: /assets/img/gsp23/LMH+Gardens+Punts_cropped.jpg
+top_image: /assets/img/gsp23/LMH_Gardens_Punts_cropped.jpg
 top_image_alt: "Punting boats."
 ---
 

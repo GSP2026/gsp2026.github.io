@@ -5,7 +5,7 @@ title: Registration
 description: 
 nav: false
 
-top_image: /assets/img/gsp23/LMH+Deneke+Dining+Hall++(3)_cropped.jpg
+top_image: /assets/img/gsp23/LMH_Deneke_Dining_Hall_cropped.jpg
 top_image_alt: "Lady Margaret Hall dining hall"
 ---
 
