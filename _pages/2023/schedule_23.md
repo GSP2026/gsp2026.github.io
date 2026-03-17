@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: page_23
 permalink: /2023/schedule/
 title: Schedule
 description: 
 nav: false
 
-top_image: /assets/img/gsp23/LMH_Simpkins_Lee_Theatre_cropped_smaller.jpg
+top_image: /assets/img/gsp23/LMH+Simpkins+Lee+Theatre+(14)_cropped_smaller.jpg
 top_image_alt: "Simpkins Lee Theatre"
 ---
 

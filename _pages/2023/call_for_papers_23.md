@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_23
 permalink: /2023/call_for_papers/
 title: "Call for papers"
 description: 

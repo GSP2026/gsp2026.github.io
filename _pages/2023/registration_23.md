@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_23
 permalink: /2023/registration/
 title: Registration
 description: 
