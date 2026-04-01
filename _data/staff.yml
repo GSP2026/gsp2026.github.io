@@ -1,90 +1,50 @@
 Speakers:
-  # - name: Speakers Coming Soon
-  #   email: 
-  #   affiliation: 
-  #   url: #
-  #   image: #
-  #   id: TBD
-  #   topic: "Reference to 2026 speakers to be announced"
-  #   abstract: 
-  #   bio: 
+  - name: Antonio Ortega
+    email: 
+    affiliation: University of Southern California
+    url: https://viterbi.usc.edu/directory/faculty/Ortega/Antonio
+    image: speakers/antonio_ortega.jpg
+    id: AO
+    topic: "Coming soon"
+    abstract: "Coming soon"
+    bio: 
 
-#  - name: Naoki Saito
-#    email: gsp.2025@mila.quebec
-#    affiliation: UC Davis
-#    url: https://www.math.ucdavis.edu/~saito/
-#    image: speakers/naoki.jpg
-#    id: NS
-#    topic: "Generalized Haar-Walsh Dictionaries: Extensions and Applications"
-#    abstract:
-#    bio:
-#
-#  - name: Mathilde Papillon
-#    email: gsp.2025@mila.quebec
-#    affiliation: UC Santa Barbara
-#    url: https://www.mathildep.ca
-#    image: speakers/mathilde.jpg
-#    id: MP
-#    topic: "Make Any Graph Neural Network Go Topological with TopoTune"
-#    abstract:
-#    bio:
-#
-#  - name: Dominique Beaini
-#    email: gsp.2025@mila.quebec
-#    affiliation: Valence Labs, Université de Montréal, Mila -- Quebec AI Institute
-#    url: https://mila.quebec/en/directory/dominique-beaini
-#    image: speakers/dominique.jpg
-#    id: DB2
-#    topic: "How to Learn Molecules"
-#    abstract:
-#    bio:
-#
-#  - name: Danai Koutra
-#    email: gsp.2025@mila.quebec
-#    affiliation: University of Michigan, Ann Arbor
-#    url: https://web.eecs.umich.edu/~dkoutra/
-#    image: speakers/danai.jpeg
-#    id: DK
-#    topic: "Not all Neighbors Agree: Graph Learning Beyond Homophily"
-#    abstract:
-#    bio:
-#
-#  - name: Antonio G. Marques
-#    email: gsp.2025@mila.quebec
-#    affiliation: King Juan Carlos University, Madrid
-#    url: https://tsc.urjc.es/~amarques/
-#    image: speakers/antonio.jpg
-#    id: AM
-#    topic: "Beyond Graphical Lasso: Learning Graphs from Nodal Signals"
-#    abstract:
-#    bio:
-#
-#  - name: Melanie Weber
-#    email: gsp.2025@mila.quebec
-#    affiliation: Harvard University
-#    url: https://melanie-weber.com
-#    image: speakers/melanie.jpg
-#    id: MW
-#    topic: "A Geometric Lens on Challenges in Graph Machine Learning: Insights and Remedies"
-#    abstract:
-#    bio:
-#  
-#  - name: Dhananjay Bhaskar
-#    email: gsp.2025@mila.quebec
-#    affiliation: Yale University
-#    url: https://dbhaskar92.github.io
-#    image: speakers/dhananjay.jpg
-#    id: DB
-#    topic: "Beyond Message Passing: Learning Representations from Dynamics on Graphs"
-#    abstract:
-#    bio:
-#
-#  - name: Hamed Shirzad
-#    email: gsp.2025@mila.quebec
-#    affiliation: University of British Columbia
-#    url: https://www.hamedshirzad.com
-#    image: speakers/hamed.jpeg
-#    id: HS
-#    topic: "Scaling Graph Transformers with Sparse and Sparsified Attention"
-#    abstract:
-#    bio:
+  - name: Daniel P. Palomar
+    email: 
+    affiliation: Hong Kong University of Science and Technology
+    url: https://seng.hkust.edu.hk/about/people/faculty/daniel-p-palomar
+    image: speakers/daniel_palomar.jpg
+    id: DP
+    topic: "Coming soon"
+    abstract: "Coming soon"
+    bio: 
+
+  - name: Gonzalo Mateos
+    email: 
+    affiliation: University of Rochester
+    url: https://www.hajim.rochester.edu/ece/people/faculty/mateos_gonzalo/index.html
+    image: speakers/gonzalo_mateos.jpg
+    id: GM
+    topic: "Coming soon"
+    abstract: "Coming soon"
+    bio: 
+
+  - name: Luana Ruiz
+    email: 
+    affiliation: Johns Hopkins University
+    url: https://engineering.jhu.edu/faculty/luana-ruiz/
+    image: speakers/luana_ruiz.jpg
+    id: LR
+    topic: "Coming soon"
+    abstract: "Coming soon"
+    bio: 
+
+  - name: Paolo Di Lorenzo
+    email: 
+    affiliation: Sapienza University of Rome
+    url: https://phd.uniroma1.it/web/PAOLO-DI-LORENZO_nC1678_EN.aspx
+    image: speakers/paolo_di_lorenzo.jpg
+    id: PDL
+    topic: "Coming soon"
+    abstract: "Coming soon"
+    bio: 

@@ -41,11 +41,7 @@ GSP 2026 is kindly supported by [Ellis Unit - Madrid](https://ellismadrid.es/).
 + **Workshop:** June 8-10, 2026
 
 ---
-#### Invited Speakers (Coming soon)
-
-<br>
-<br>
-
+#### Invited Speakers
 {% include speakers.html %}
 
 
