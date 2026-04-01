@@ -35,7 +35,7 @@ GSP 2026 is kindly supported by [Ellis Unit - Madrid](https://ellismadrid.es/).
 ---
 #### Important Dates
 + ~~**Submission open:** February 15, 2026~~
-+ **Submission deadline:** April 1, 2026
++ **Submission deadline:** ~~April 1, 2026~~ April 6, 2026
 + **Notification of acceptance:** April 10, 2026
 + **Early registration:** April 20, 2026
 + **Workshop:** June 8-10, 2026
@@ -57,15 +57,15 @@ GSP 2026 is kindly supported by [Ellis Unit - Madrid](https://ellismadrid.es/).
 + [Samuel Rey](https://servicios.urjc.es/pdi/ver/samuel.rey.escudero)
 + [Sergio Rozada](https://servicios.urjc.es/pdi/ver/sergio.rozada)
 + [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3)
-+ John Shi
++ [John Shi](/)
 
 ---
 
 #### Local Organizing Committee
 
-<br>
-<br>
-
++ Andrei Buciulea Vlas
++ Cristina Soguero Ruíz
++ Inmaculada Mora Jiménez
 
 ---
 #### Patrons
