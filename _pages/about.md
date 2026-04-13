@@ -36,7 +36,7 @@ GSP 2026 is kindly supported by [Ellis Unit - Madrid](https://ellismadrid.es/).
 #### Important Dates
 + ~~**Submission open:** February 15, 2026~~
 + ~~**Submission deadline:** April 6, 2026~~
-+ **Notification of acceptance:** April 10, 2026
++ ~~**Notification of acceptance:** April 10, 2026~~
 + **Early registration:** April 20, 2026
 + **Workshop:** June 8-10, 2026
 
