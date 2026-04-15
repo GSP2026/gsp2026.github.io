@@ -24,4 +24,8 @@ Registration fees:
 + Non-Student - 520 &euro; (Early Bird, until April 23) / 620 &euro; (Regular)
 + Gold Attendee - 1.200 &euro; (Early Bird, until April 23) / 1.200 &euro; (Regular)
 
+The registration fee includes lunches and access to the social events.
+
+Please note that each accepted paper must be covered by a registration, and each registration covers one paper. In exceptional cases, if you need to cover two papers with a single registration, please contact us at <a href="mailto:gspworkshop2026@gmail.com">gspworkshop2026@gmail.com</a>.
+
 Early Bird fees are available until April 23, with regular fees applied from April 24.
