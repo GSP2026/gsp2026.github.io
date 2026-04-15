@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /venue/
-title: Venue
+title: "Venue and Travel"
 description: 
 nav: true
 nav_order: 1
@@ -16,6 +16,11 @@ Spain is a member of the **Schengen Area**. Citizens of the EU, EEA, and Switzer
 
 However, some visitors may require a **Schengen Visa**. We recommend checking the official requirements well in advance.
 For definitive information, please visit the **[official website of the Ministry of Foreign Affairs](https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Visados-Schengen.aspx)**.
+
+<div style="margin: 1.5rem 0; padding: 1rem 1.25rem; border-left: 4px solid var(--global-theme-color); background: rgba(0, 0, 0, 0.03);">
+  <strong>Visa invitation letters</strong><br>
+  Attendees who need an invitation letter for their visa application must register first and then email <a href="mailto:gspworkshop2026@gmail.com">gspworkshop2026@gmail.com</a> with their registration confirmation number and the subject line "Visa invitation letter request".
+</div>
 
 ---
 ### Venue
@@ -45,7 +50,7 @@ The venue is situated in the **Argüelles / Chamberí** area, a safe, lively, an
 The venue is exceptionally well connected by public transport.
 
 #### Getting Around Madrid
-*   **Public Transport Card ("Tarjeta Multi")**: To use the Metro or buses, you need a reloadable red card called **"Tarjeta Multi"** (2.50€). You can buy it at the red machines in any Metro station or at tobacco shops (*estancos*).
+*   **Public Transport Card ("Tarjeta Multi")**: To use the Metro or buses, you need a reloadable red card called **"Tarjeta Multi"** (2.50€). You can buy it at the red machines in any Metro station.
     *   **Tip**: The card is **shareable** (multi-personal), so a group can travel with a single card.
     *   **Buses**: You can also pay directly on the bus with a contactless bank card (VISA/Mastercard).
 *   **Apps**: We recommend using **Google Maps**, **Citymapper**, or the official **Metro de Madrid** app to plan your routes.
