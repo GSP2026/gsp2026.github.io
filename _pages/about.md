@@ -23,7 +23,7 @@ This year, we also introduce the TMLR Journal Track (alongside our Extended Abst
 </div>
 -->
 
-GSP 2026 is kindly supported by [Ellis Unit - Madrid](https://ellismadrid.es/).
+GSP 2026 is hosted by [Universidad Rey Juan Carlos](https://www.urjc.es/) and co-organized by the [Ellis Unit - Madrid](https://ellismadrid.es/) and [Ellis Unit - Delft](https://www.tudelft.nl/ellis-delft-unit).
 
 
 ---
