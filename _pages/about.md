@@ -55,6 +55,7 @@ GSP 2026 is hosted by [Universidad Rey Juan Carlos](https://www.urjc.es/) and co
 + [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3)
 + [Santiago Segarra](https://segarra.rice.edu/)
 + [John Shi](/)
++ [Elvin Isufi](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/elvin-isufi/)
 
 ---
 
