@@ -12,6 +12,11 @@ social: false  # includes social icons at the bottom of the page
 organizer: true
 ---
 
+#### BBVA
+<a href="https://www.bbva.com/"><img id = 'bbva_logo' class="img-fluid" src="/assets/img/logos/Logo-BBVA-1920x1080.png" style="margin: 10px 10px 10px 10px; max-height: 200px;"></a>
+
+---
+
 #### Ellis Unit - Madrid
 <a href="https://ellismadrid.es/"><img id = 'ellis_logo' class="img-fluid" src="/assets/img/logos/ellis_madrid.png" style="margin: 10px 10px 10px 10px; max-height: 200px;"></a>
 
