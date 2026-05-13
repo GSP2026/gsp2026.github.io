@@ -37,7 +37,7 @@ GSP 2026 is hosted by [Universidad Rey Juan Carlos](https://www.urjc.es/) and co
 + ~~**Submission open:** February 15, 2026~~
 + ~~**Submission deadline:** April 6, 2026~~
 + ~~**Notification of acceptance:** April 10, 2026~~
-+ **Early registration:** ~~April 20, 2026~~ April 23, 2026
++ ~~**Early registration:** April 23, 2026~~
 + **Workshop:** June 8-10, 2026
 
 ---
