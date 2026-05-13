@@ -13,7 +13,7 @@ organizer: true
 ---
 
 #### BBVA
-<a href="https://www.bbva.com/"><img id = 'bbva_logo' class="img-fluid" src="/assets/img/logos/Logo-BBVA-1920x1080.png" style="margin: 10px 10px 10px 10px; max-height: 200px;"></a>
+<a href="https://www.bbva.com/"><img id='bbva_logo' class="img-fluid" src="/assets/img/logos/Logo-BBVA-1920x1080.png" alt="BBVA" style="margin: 10px 10px 10px 10px; max-height: 200px;"></a>
 
 ---
 
