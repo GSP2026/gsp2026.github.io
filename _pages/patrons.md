@@ -14,8 +14,8 @@ organizer: true
 
 #### BBVA
 <a href="https://www.bbva.com/">
-  <img id='bbva_logo_light' class="img-fluid repo-img-light" src="/assets/img/logos/BBVA_RGB.png" alt="BBVA" style="margin: 10px 10px 10px 10px; height: 200px;">
-  <img id='bbva_logo_dark' class="img-fluid repo-img-dark" src="/assets/img/logos/BBVA_WHITE.png" alt="BBVA" style="margin: 10px 10px 10px 10px; height: 200px;">
+  <img id='bbva_logo_light' class="img-fluid repo-img-light" src="/assets/img/logos/BBVA_RGB.png" alt="BBVA" style="margin: 10px 10px 10px 10px; max-height: 200px;">
+  <img id='bbva_logo_dark' class="img-fluid repo-img-dark" src="/assets/img/logos/BBVA_WHITE.png" alt="BBVA" style="margin: 10px 10px 10px 10px; max-height: 200px;">
 </a>
 
 ---
