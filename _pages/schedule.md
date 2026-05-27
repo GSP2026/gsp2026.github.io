@@ -206,125 +206,9 @@ top_image_alt: "GSP 2026 Madrid"
 
 ### Program At A Glance
 
-The detailed technical program below was extracted from the GSPTechnicalProgram2026 document. Two table treatments are provided for comparison.
-
-#### Current Compact Version
-
-<div class="schedule-preview schedule-detailed">
-  <div class="schedule-note">Detailed technical program (three-day view).</div>
-  <div class="schedule-table-wrap">
-    <table class="schedule-table">
-      <thead>
-        <tr>
-          <th class="title-heading" colspan="6">GSP 2026 Schedule</th>
-        </tr>
-        <tr>
-          <th class="day-heading" colspan="2">Day 1 - Monday, June 8</th>
-          <th class="day-heading" colspan="2">Day 2 - Tuesday, June 9</th>
-          <th class="day-heading" colspan="2">Day 3 - Wednesday, June 10</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td class="time-slot">09:00-09:20</td>
-          <td class="activity-cell">Welcome Message</td>
-          <td class="time-slot">09:00-10:00</td>
-          <td class="activity-cell">Plenary Gonzalo Mateos</td>
-          <td class="time-slot">09:00-10:00</td>
-          <td class="activity-cell">Plenary Luana Ruiz</td>
-        </tr>
-        <tr>
-          <td class="time-slot">09:20-10:20</td>
-          <td class="activity-cell">Plenary Paolo Di Lorenzo</td>
-          <td class="time-slot">10:00-11:00</td>
-          <td class="activity-cell">Oral Session Tue-1</td>
-          <td class="time-slot">10:00-11:00</td>
-          <td class="activity-cell">Oral Session Wed-1</td>
-        </tr>
-        <tr>
-          <td class="time-slot">10:20-11:20</td>
-          <td class="activity-cell">Oral Session Mon-1</td>
-          <td class="time-slot">11:00-11:30</td>
-          <td class="activity-cell">BBVA Coffee Break 2A</td>
-          <td class="time-slot">11:00-11:30</td>
-          <td class="activity-cell">Coffee Break A</td>
-        </tr>
-        <tr>
-          <td class="time-slot">11:20-11:50</td>
-          <td class="activity-cell">Coffee Break A</td>
-          <td class="time-slot">11:30-13:30</td>
-          <td class="activity-cell">Poster Session</td>
-          <td class="time-slot">11:30-13:30</td>
-          <td class="activity-cell">Oral Session Wed-2</td>
-        </tr>
-        <tr>
-          <td class="time-slot">11:50-13:30</td>
-          <td class="activity-cell">Oral Session Mon-2</td>
-          <td class="time-slot">13:30-15:00</td>
-          <td class="activity-cell">Lunch Break</td>
-          <td class="time-slot">13:30-15:00</td>
-          <td class="activity-cell">Lunch Break</td>
-        </tr>
-        <tr>
-          <td class="time-slot">13:30-15:00</td>
-          <td class="activity-cell">Lunch Break</td>
-          <td class="time-slot">15:00-16:00</td>
-          <td class="activity-cell">Plenary Daniel Palomar</td>
-          <td class="time-slot">15:00-16:00</td>
-          <td class="activity-cell">Oral Session Wed-3</td>
-        </tr>
-        <tr>
-          <td class="time-slot">15:00-16:00</td>
-          <td class="activity-cell">Plenary Antonio Ortega</td>
-          <td class="time-slot">16:00-17:00</td>
-          <td class="activity-cell">Oral Session Tue-2</td>
-          <td class="time-slot">16:00-16:20</td>
-          <td class="activity-cell">Closing Ceremony</td>
-        </tr>
-        <tr>
-          <td class="time-slot">16:00-17:00</td>
-          <td class="activity-cell">Oral Session Mon-3</td>
-          <td class="time-slot">17:00-17:30</td>
-          <td class="activity-cell">Coffee Break 2B</td>
-          <td class="time-slot"></td>
-          <td class="activity-cell"></td>
-        </tr>
-        <tr>
-          <td class="time-slot">17:00-17:30</td>
-          <td class="activity-cell">Coffee Break B</td>
-          <td class="time-slot">17:30-18:30</td>
-          <td class="activity-cell">Oral Session Tue-3</td>
-          <td class="time-slot"></td>
-          <td class="activity-cell"></td>
-        </tr>
-        <tr>
-          <td class="time-slot">17:30-18:30</td>
-          <td class="activity-cell">Oral Session Mon-4</td>
-          <td class="time-slot"></td>
-          <td class="activity-cell"></td>
-          <td class="time-slot"></td>
-          <td class="activity-cell"></td>
-        </tr>
-        <tr class="spacer-row">
-          <td></td><td></td><td></td><td></td><td></td><td></td>
-        </tr>
-        <tr>
-          <td class="time-slot">20:30-22:30</td>
-          <td class="activity-cell">Welcome Reception (Casa Suecia)</td>
-          <td class="time-slot">21:00-23:00</td>
-          <td class="activity-cell">Banquet (Caf&eacute; Comercial)</td>
-          <td class="time-slot"></td>
-          <td class="activity-cell"></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
-#### Visual Test Version
+This is a condensed overview of the program. Full information about the plenary talks is provided below, and the list of papers included in each session will be added there as well.
 
 <div class="schedule-preview schedule-detailed schedule-aesthetic-test">
-  <div class="schedule-note">A smaller 8pt version with separators only between days.</div>
   <div class="schedule-table-wrap">
     <table class="schedule-table">
       <thead>
@@ -364,11 +248,11 @@ The detailed technical program below was extracted from the GSPTechnicalProgram2
         </tr>
         <tr>
           <td class="time-slot">11:20-11:50</td>
-          <td class="activity-cell">Coffee Break A</td>
+          <td class="activity-cell">Coffee Break</td>
           <td class="time-slot">11:00-11:30</td>
-          <td class="activity-cell">BBVA Coffee Break 2A</td>
+          <td class="activity-cell">Coffee Break BBVA</td>
           <td class="time-slot">11:00-11:30</td>
-          <td class="activity-cell">Coffee Break A</td>
+          <td class="activity-cell">Coffee Break</td>
         </tr>
         <tr>
           <td class="time-slot">11:50-13:30</td>
@@ -404,9 +288,9 @@ The detailed technical program below was extracted from the GSPTechnicalProgram2
         </tr>
         <tr>
           <td class="time-slot">17:00-17:30</td>
-          <td class="activity-cell">Coffee Break B</td>
+          <td class="activity-cell">Coffee Break</td>
           <td class="time-slot">17:00-17:30</td>
-          <td class="activity-cell">Coffee Break 2B</td>
+          <td class="activity-cell">Coffee Break BBVA</td>
           <td class="time-slot"></td>
           <td class="activity-cell"></td>
         </tr>
@@ -441,6 +325,17 @@ The detailed technical program below was extracted from the GSPTechnicalProgram2
     </table>
   </div>
 </div>
+
+---
+
+#### General Information
+
+Lectures in the oral sessions are 20 minutes long, including Q&As. Posters should use A0 size in portrait orientation.
+
+There will be two social events:
+
+- Welcome Reception: Monday, June 8, 20:30-22:30, [Casa Suecia](https://www.google.com/maps/search/?api=1&query=Casa%20Suecia%20Madrid), Calle del Marqu&eacute;s de Casa Riera, 4, 28014 Madrid.
+- Conference Banquet: Tuesday, June 9, 21:00-23:00, [Caf&eacute; Comercial](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Comercial%20Madrid), Glorieta de Bilbao, 7, 28004 Madrid.
 
 #### Plenary Talks
 
