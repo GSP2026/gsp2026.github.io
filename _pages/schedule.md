@@ -90,6 +90,7 @@ top_image_alt: "GSP 2026 Madrid"
     table-layout: fixed;
     border-collapse: collapse;
     background: #ffffff;
+    color: #222222;
     font-size: 0.84rem;
   }
 
