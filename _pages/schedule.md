@@ -327,14 +327,6 @@ Below is the conference schedule at a glance. Details about the plenary talks, o
         <tr>
           <td class="time-slot">20:30-22:30</td>
           <td class="activity-cell">Welcome Reception (Casa Suecia)</td>
-          <td class="time-slot"></td>
-          <td class="activity-cell"></td>
-          <td class="time-slot"></td>
-          <td class="activity-cell"></td>
-        </tr>
-        <tr>
-          <td class="time-slot"></td>
-          <td class="activity-cell"></td>
           <td class="time-slot">21:00-23:00</td>
           <td class="activity-cell">Banquet (Caf&eacute; Comercial)</td>
           <td class="time-slot"></td>
