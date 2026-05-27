@@ -12,7 +12,7 @@ top_image_alt: "GSP 2026 Madrid"
 
 ### Program Schedule
 
-The provisional program for GSP 2026 is outlined below. A more detailed schedule will be shared closer to the workshop.
+Two versions of the GSP 2026 schedule are shown below for comparison while the final layout is refined.
 
 <style>
   .schedule-preview {
@@ -132,6 +132,30 @@ The provisional program for GSP 2026 is outlined below. A more detailed schedule
     background: #ffffff;
   }
 
+  .schedule-aesthetic-test .schedule-table {
+    font-size: 8pt;
+  }
+
+  .schedule-aesthetic-test th,
+  .schedule-aesthetic-test td {
+    border: 0;
+    padding: 0.38rem 0.42rem;
+  }
+
+  .schedule-aesthetic-test .day-heading + .day-heading,
+  .schedule-aesthetic-test tbody td:nth-child(3),
+  .schedule-aesthetic-test tbody td:nth-child(5) {
+    border-left: 1px solid rgba(0, 0, 0, 0.16);
+  }
+
+  .schedule-aesthetic-test .time-slot {
+    background: transparent;
+  }
+
+  .schedule-aesthetic-test .spacer-row td {
+    height: 2.2rem;
+  }
+
   .schedule-day-cards {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -179,62 +203,127 @@ The provisional program for GSP 2026 is outlined below. A more detailed schedule
   }
 </style>
 
-<div class="schedule-preview schedule-clean-card">
-  <div class="schedule-note">The provisional schedule is shown below. A more detailed program will be shared closer to the workshop.</div>
+### Program At A Glance
+
+The detailed technical program below was extracted from the GSPTechnicalProgram2026 document. Two table treatments are provided for comparison.
+
+#### Current Compact Version
+
+<div class="schedule-preview schedule-detailed">
+  <div class="schedule-note">Detailed technical program (three-day view).</div>
   <div class="schedule-table-wrap">
     <table class="schedule-table">
       <thead>
         <tr>
-          <th>Time</th>
-          <th>Monday, June 8</th>
-          <th>Tuesday, June 9</th>
-          <th>Wednesday, June 10</th>
+          <th class="title-heading" colspan="6">GSP 2026 Schedule</th>
+        </tr>
+        <tr>
+          <th class="day-heading" colspan="2">Day 1 - Monday, June 8</th>
+          <th class="day-heading" colspan="2">Day 2 - Tuesday, June 9</th>
+          <th class="day-heading" colspan="2">Day 3 - Wednesday, June 10</th>
         </tr>
       </thead>
       <tbody>
         <tr>
+          <td class="time-slot">09:00-09:20</td>
+          <td class="activity-cell">Welcome Message</td>
           <td class="time-slot">09:00-10:00</td>
-          <td>Plenary</td>
-          <td>Plenary</td>
-          <td>Plenary</td>
+          <td class="activity-cell">Plenary Gonzalo Mateos</td>
+          <td class="time-slot">09:00-10:00</td>
+          <td class="activity-cell">Plenary Luana Ruiz</td>
         </tr>
         <tr>
-          <td class="time-slot">10:00-13:00</td>
-          <td>Technical Sessions</td>
-          <td>Technical Sessions</td>
-          <td>Technical Sessions</td>
+          <td class="time-slot">09:20-10:20</td>
+          <td class="activity-cell">Plenary Paolo Di Lorenzo</td>
+          <td class="time-slot">10:00-11:00</td>
+          <td class="activity-cell">Oral Session Tue-1</td>
+          <td class="time-slot">10:00-11:00</td>
+          <td class="activity-cell">Oral Session Wed-1</td>
         </tr>
         <tr>
-          <td class="time-slot">13:00-15:00</td>
-          <td>Lunch</td>
-          <td>Lunch</td>
-          <td>Lunch</td>
+          <td class="time-slot">10:20-11:20</td>
+          <td class="activity-cell">Oral Session Mon-1</td>
+          <td class="time-slot">11:00-11:30</td>
+          <td class="activity-cell">BBVA Coffee Break 2A</td>
+          <td class="time-slot">11:00-11:30</td>
+          <td class="activity-cell">Coffee Break A</td>
+        </tr>
+        <tr>
+          <td class="time-slot">11:20-11:50</td>
+          <td class="activity-cell">Coffee Break A</td>
+          <td class="time-slot">11:30-13:30</td>
+          <td class="activity-cell">Poster Session</td>
+          <td class="time-slot">11:30-13:30</td>
+          <td class="activity-cell">Oral Session Wed-2</td>
+        </tr>
+        <tr>
+          <td class="time-slot">11:50-13:30</td>
+          <td class="activity-cell">Oral Session Mon-2</td>
+          <td class="time-slot">13:30-15:00</td>
+          <td class="activity-cell">Lunch Break</td>
+          <td class="time-slot">13:30-15:00</td>
+          <td class="activity-cell">Lunch Break</td>
+        </tr>
+        <tr>
+          <td class="time-slot">13:30-15:00</td>
+          <td class="activity-cell">Lunch Break</td>
+          <td class="time-slot">15:00-16:00</td>
+          <td class="activity-cell">Plenary Daniel Palomar</td>
+          <td class="time-slot">15:00-16:00</td>
+          <td class="activity-cell">Oral Session Wed-3</td>
         </tr>
         <tr>
           <td class="time-slot">15:00-16:00</td>
-          <td>Plenary</td>
-          <td>Plenary</td>
-          <td>Plenary</td>
+          <td class="activity-cell">Plenary Antonio Ortega</td>
+          <td class="time-slot">16:00-17:00</td>
+          <td class="activity-cell">Oral Session Tue-2</td>
+          <td class="time-slot"></td>
+          <td class="activity-cell">Closing Ceremony</td>
         </tr>
         <tr>
-          <td class="time-slot">16:00-18:00</td>
-          <td>Technical Sessions</td>
-          <td>Technical Sessions</td>
-          <td>Technical Sessions</td>
+          <td class="time-slot">16:00-17:00</td>
+          <td class="activity-cell">Oral Session Mon-3</td>
+          <td class="time-slot">17:00-17:30</td>
+          <td class="activity-cell">Coffee Break 2B</td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
+        </tr>
+        <tr>
+          <td class="time-slot">17:00-17:30</td>
+          <td class="activity-cell">Coffee Break B</td>
+          <td class="time-slot">17:30-18:30</td>
+          <td class="activity-cell">Oral Session Tue-3</td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
+        </tr>
+        <tr>
+          <td class="time-slot">17:30-18:30</td>
+          <td class="activity-cell">Oral Session Mon-4</td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
+        </tr>
+        <tr class="spacer-row">
+          <td></td><td></td><td></td><td></td><td></td><td></td>
+        </tr>
+        <tr>
+          <td class="time-slot">20:30-22:30</td>
+          <td class="activity-cell">Welcome Reception (Casa Suecia)</td>
+          <td class="time-slot">21:00-23:00</td>
+          <td class="activity-cell">Banquet (Caf&eacute; Comercial)</td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
         </tr>
       </tbody>
     </table>
   </div>
 </div>
 
----
+#### Visual Test Version
 
-### Program At A Glance
-
-The detailed technical program below was extracted from the GSPTechnicalProgram2026 document. This version is provided for comparison with the provisional schedule shown above.
-
-<div class="schedule-preview schedule-detailed">
-  <div class="schedule-note">Detailed technical program (three-day view).</div>
+<div class="schedule-preview schedule-detailed schedule-aesthetic-test">
+  <div class="schedule-note">A smaller 8pt version with separators only between days.</div>
   <div class="schedule-table-wrap">
     <table class="schedule-table">
       <thead>
