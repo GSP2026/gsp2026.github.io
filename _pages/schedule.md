@@ -10,10 +10,6 @@ top_image: /assets/img/banners/banner_oso_GSP2.png
 top_image_alt: "GSP 2026 Madrid"
 ---
 
-### Program Schedule
-
-Two versions of the GSP 2026 schedule are shown below for comparison while the final layout is refined.
-
 <style>
   .schedule-preview {
     margin: 2rem 0 3rem;
@@ -133,6 +129,7 @@ Two versions of the GSP 2026 schedule are shown below for comparison while the f
   }
 
   .schedule-aesthetic-test .schedule-table {
+    border: 1px solid rgba(0, 0, 0, 0.18);
     font-size: 8pt;
   }
 
@@ -150,6 +147,10 @@ Two versions of the GSP 2026 schedule are shown below for comparison while the f
 
   .schedule-aesthetic-test .time-slot {
     background: transparent;
+  }
+
+  .schedule-aesthetic-test .title-heading {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.18);
   }
 
   .schedule-aesthetic-test .spacer-row td {
@@ -277,7 +278,7 @@ The detailed technical program below was extracted from the GSPTechnicalProgram2
           <td class="activity-cell">Plenary Antonio Ortega</td>
           <td class="time-slot">16:00-17:00</td>
           <td class="activity-cell">Oral Session Tue-2</td>
-          <td class="time-slot"></td>
+          <td class="time-slot">16:00-16:20</td>
           <td class="activity-cell">Closing Ceremony</td>
         </tr>
         <tr>
@@ -340,80 +341,80 @@ The detailed technical program below was extracted from the GSPTechnicalProgram2
         <tr>
           <td class="time-slot">09:00-09:20</td>
           <td class="activity-cell">Welcome Message</td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
+        </tr>
+        <tr>
+          <td class="time-slot">09:20-10:20</td>
+          <td class="activity-cell">Plenary Paolo Di Lorenzo</td>
           <td class="time-slot">09:00-10:00</td>
           <td class="activity-cell">Plenary Gonzalo Mateos</td>
           <td class="time-slot">09:00-10:00</td>
           <td class="activity-cell">Plenary Luana Ruiz</td>
         </tr>
         <tr>
-          <td class="time-slot">09:20-10:20</td>
-          <td class="activity-cell">Plenary Paolo Di Lorenzo</td>
+          <td class="time-slot">10:20-11:20</td>
+          <td class="activity-cell">Oral Session Mon-1</td>
           <td class="time-slot">10:00-11:00</td>
           <td class="activity-cell">Oral Session Tue-1</td>
           <td class="time-slot">10:00-11:00</td>
           <td class="activity-cell">Oral Session Wed-1</td>
         </tr>
         <tr>
-          <td class="time-slot">10:20-11:20</td>
-          <td class="activity-cell">Oral Session Mon-1</td>
+          <td class="time-slot">11:20-11:50</td>
+          <td class="activity-cell">Coffee Break A</td>
           <td class="time-slot">11:00-11:30</td>
           <td class="activity-cell">BBVA Coffee Break 2A</td>
           <td class="time-slot">11:00-11:30</td>
           <td class="activity-cell">Coffee Break A</td>
         </tr>
         <tr>
-          <td class="time-slot">11:20-11:50</td>
-          <td class="activity-cell">Coffee Break A</td>
+          <td class="time-slot">11:50-13:30</td>
+          <td class="activity-cell">Oral Session Mon-2</td>
           <td class="time-slot">11:30-13:30</td>
           <td class="activity-cell">Poster Session</td>
           <td class="time-slot">11:30-13:30</td>
           <td class="activity-cell">Oral Session Wed-2</td>
         </tr>
         <tr>
-          <td class="time-slot">11:50-13:30</td>
-          <td class="activity-cell">Oral Session Mon-2</td>
+          <td class="time-slot">13:30-15:00</td>
+          <td class="activity-cell">Lunch Break</td>
           <td class="time-slot">13:30-15:00</td>
           <td class="activity-cell">Lunch Break</td>
           <td class="time-slot">13:30-15:00</td>
           <td class="activity-cell">Lunch Break</td>
         </tr>
         <tr>
-          <td class="time-slot">13:30-15:00</td>
-          <td class="activity-cell">Lunch Break</td>
+          <td class="time-slot">15:00-16:00</td>
+          <td class="activity-cell">Plenary Antonio Ortega</td>
           <td class="time-slot">15:00-16:00</td>
           <td class="activity-cell">Plenary Daniel Palomar</td>
           <td class="time-slot">15:00-16:00</td>
           <td class="activity-cell">Oral Session Wed-3</td>
         </tr>
         <tr>
-          <td class="time-slot">15:00-16:00</td>
-          <td class="activity-cell">Plenary Antonio Ortega</td>
+          <td class="time-slot">16:00-17:00</td>
+          <td class="activity-cell">Oral Session Mon-3</td>
           <td class="time-slot">16:00-17:00</td>
           <td class="activity-cell">Oral Session Tue-2</td>
-          <td class="time-slot"></td>
+          <td class="time-slot">16:00-16:20</td>
           <td class="activity-cell">Closing Ceremony</td>
         </tr>
         <tr>
-          <td class="time-slot">16:00-17:00</td>
-          <td class="activity-cell">Oral Session Mon-3</td>
+          <td class="time-slot">17:00-17:30</td>
+          <td class="activity-cell">Coffee Break B</td>
           <td class="time-slot">17:00-17:30</td>
           <td class="activity-cell">Coffee Break 2B</td>
           <td class="time-slot"></td>
           <td class="activity-cell"></td>
         </tr>
         <tr>
-          <td class="time-slot">17:00-17:30</td>
-          <td class="activity-cell">Coffee Break B</td>
-          <td class="time-slot">17:30-18:30</td>
-          <td class="activity-cell">Oral Session Tue-3</td>
-          <td class="time-slot"></td>
-          <td class="activity-cell"></td>
-        </tr>
-        <tr>
           <td class="time-slot">17:30-18:30</td>
           <td class="activity-cell">Oral Session Mon-4</td>
-          <td class="time-slot"></td>
-          <td class="activity-cell"></td>
+          <td class="time-slot">17:30-18:30</td>
+          <td class="activity-cell">Oral Session Tue-3</td>
           <td class="time-slot"></td>
           <td class="activity-cell"></td>
         </tr>
@@ -423,6 +424,14 @@ The detailed technical program below was extracted from the GSPTechnicalProgram2
         <tr>
           <td class="time-slot">20:30-22:30</td>
           <td class="activity-cell">Welcome Reception (Casa Suecia)</td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
+        </tr>
+        <tr>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
           <td class="time-slot">21:00-23:00</td>
           <td class="activity-cell">Banquet (Caf&eacute; Comercial)</td>
           <td class="time-slot"></td>
@@ -434,6 +443,22 @@ The detailed technical program below was extracted from the GSPTechnicalProgram2
 </div>
 
 #### Plenary Talks
+
+<p id="Paolo Di Lorenzo"></p>
+
+##### **Paolo Di Lorenzo**
+
+**Title**: Sheaf-theoretic Signal Processing and Learning
+
+**Abstract**: Classical graph signal processing (GSP) provides a powerful framework for modeling data on networks, but it is inherently limited to homogeneous signal spaces and pairwise interactions. Many modern applications, ranging from biological and social networks to distributed AI, require handling heterogeneous data and structured relationships beyond these assumptions. In this talk, we present sheaf-theoretic signal processing as a principled extension of GSP for modeling heterogeneous signals and complex interactions. By assigning vector spaces to nodes and edges, together with linear restriction maps, cellular sheaves encode geometric, semantic, and topological structure directly on graphs. This framework generalizes key GSP tools, leading to the sheaf Laplacian and the Sheaf Fourier Transform, whose spectrum captures signal inconsistency across the network. We then address the problem of learning sheaves from data, proposing scalable methods based on total variation minimization that jointly infer graph topology and inter-node alignment via efficient edge-wise and Procrustes-type solutions. We also show that connection graphs arise as a structured class of sheaves with a highly interpretable spectral characterization. Finally, we highlight applications in semantic communications and federated representation learning, where sheaf-based models enable alignment of heterogeneous latent spaces without enforcing a shared global representation, yielding improved performance in distributed settings.
+
+<p id="Antonio Ortega"></p>
+
+##### **Antonio Ortega**
+
+**Title**: How to design fast GFTs
+
+**Abstract**: In this talk, we provide an overview of recent advances for speeding up the computation of the Graph Fourier Transform (GFT). We first describe divide-and-conquer techniques that leverage graph structure, such as graph symmetries or graph decompositions via low-rank updates. For graphs whose structure does not yield sufficient speed-up in transform computation, we describe approximation methods, including direct transform approximations (via Givens rotations) and indirect methods that exploit more favorable structures (e.g., spectral sparsification). We demonstrate the advantages of these techniques in image/video coding and graph machine learning applications.<br><br>*Joint work with Samuel Fernández Menduiña, Keng-Shi Lu, Darukeesan Pakiyarajah, and Eduardo Pavez.*
 
 <p id="Gonzalo Mateos"></p>
 
@@ -458,23 +483,6 @@ The detailed technical program below was extracted from the GSPTechnicalProgram2
 **Title**: Distance-Preserving Graph Machine Learning
 
 **Abstract**: A central challenge in graph machine learning is that standard learning-based methods capture local connectivity while distorting or ignoring the metric structure of graphs at larger scales. In this talk, I will present two lines of work that address this challenge from complementary angles. The first studies landmark-based distance-preserving embeddings on inhomogeneous random graphs, a flexible model capturing the community structure and degree variability observed in real networks. By analyzing neighborhood expansion via multi-type branching process approximations, we show that the embedding dimension required to achieve near-exact shortest-path preservation is significantly smaller than worst-case theory predicts, with the improvement governed by the graph's connectivity structure. We further show that GNN-based approximations of landmark distances transfer effectively from small synthetic graphs to large real-world networks, offering a scalable surrogate for exact shortest-path computation. The second line of work introduces a mesoscopic graph rewiring strategy based on opinion dynamics-inspired contagion processes. By promoting node pairs with strong multi-hop reinforcement to direct neighbors, the method constructs a sparse auxiliary graph that provably improves homophily and whose edge weights reflect a bounded effective resistance. Applied to both GNNs and graph transformers, cascade rewiring yields consistent accuracy gains across benchmarks. Together, these results suggest a unified perspective on graph machine learning grounded in the preservation and exploitation of metric structure across scales.
-
-<p id="Paolo Di Lorenzo"></p>
-
-##### **Paolo Di Lorenzo**
-
-**Title**: Sheaf-theoretic Signal Processing and Learning
-
-**Abstract**: Classical graph signal processing (GSP) provides a powerful framework for modeling data on networks, but it is inherently limited to homogeneous signal spaces and pairwise interactions. Many modern applications, ranging from biological and social networks to distributed AI, require handling heterogeneous data and structured relationships beyond these assumptions. In this talk, we present sheaf-theoretic signal processing as a principled extension of GSP for modeling heterogeneous signals and complex interactions. By assigning vector spaces to nodes and edges, together with linear restriction maps, cellular sheaves encode geometric, semantic, and topological structure directly on graphs. This framework generalizes key GSP tools, leading to the sheaf Laplacian and the Sheaf Fourier Transform, whose spectrum captures signal inconsistency across the network. We then address the problem of learning sheaves from data, proposing scalable methods based on total variation minimization that jointly infer graph topology and inter-node alignment via efficient edge-wise and Procrustes-type solutions. We also show that connection graphs arise as a structured class of sheaves with a highly interpretable spectral characterization. Finally, we highlight applications in semantic communications and federated representation learning, where sheaf-based models enable alignment of heterogeneous latent spaces without enforcing a shared global representation, yielding improved performance in distributed settings.
-
-<p id="Antonio Ortega"></p>
-
-##### **Antonio Ortega**
-
-**Title**: How to design fast GFTs
-
-**Abstract**: In this talk, we provide an overview of recent advances for speeding up the computation of the Graph Fourier Transform (GFT). We first describe divide-and-conquer techniques that leverage graph structure, such as graph symmetries or graph decompositions via low-rank updates. For graphs whose structure does not yield sufficient speed-up in transform computation, we describe approximation methods, including direct transform approximations (via Givens rotations) and indirect methods that exploit more favorable structures (e.g., spectral sparsification). We demonstrate the advantages of these techniques in image/video coding and graph machine learning applications.<br><br>*Joint work with Samuel Fernández Menduiña, Keng-Shi Lu, Darukeesan Pakiyarajah, and Eduardo Pavez.*
-
 
 <!--
 <div class="schedule-preview">
