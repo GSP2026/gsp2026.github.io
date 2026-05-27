@@ -89,6 +89,47 @@ The provisional program for GSP 2026 is outlined below. A more detailed schedule
     background: rgba(0, 0, 0, 0.025);
   }
 
+  .schedule-detailed .schedule-table {
+    min-width: 1180px;
+    border-collapse: collapse;
+    background: #ffffff;
+    font-size: 0.92rem;
+  }
+
+  .schedule-detailed th,
+  .schedule-detailed td {
+    border: 1px solid rgba(0, 0, 0, 0.22);
+    padding: 0.55rem 0.65rem;
+    vertical-align: middle;
+  }
+
+  .schedule-detailed .day-heading {
+    background: #f5dccc;
+    text-align: left;
+    font-weight: 700;
+  }
+
+  .schedule-detailed .subheading {
+    background: #f8e8dc;
+    font-style: italic;
+    font-weight: 700;
+  }
+
+  .schedule-detailed .time-slot {
+    width: 7.8rem;
+    background: #fff5ee;
+    font-weight: 600;
+  }
+
+  .schedule-detailed .activity-cell {
+    min-width: 13rem;
+  }
+
+  .schedule-detailed .spacer-row td {
+    height: 1.25rem;
+    background: #ffffff;
+  }
+
   .schedule-day-cards {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -178,6 +219,128 @@ The provisional program for GSP 2026 is outlined below. A more detailed schedule
           <td>Technical Sessions</td>
           <td>Technical Sessions</td>
           <td>Technical Sessions</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+---
+
+### Detailed Technical Program (from GSPTechnicalProgram2026)
+
+The detailed technical program below was extracted from the GSPTechnicalProgram2026 document. This version is provided for comparison with the provisional schedule shown above.
+
+<div class="schedule-preview schedule-detailed">
+  <div class="schedule-note">Detailed technical program (three-day view). Each day uses two columns: Time and Activity.</div>
+  <div class="schedule-table-wrap">
+    <table class="schedule-table">
+      <thead>
+        <tr>
+          <th class="day-heading" colspan="2">Day 1 - Monday, June 8</th>
+          <th class="day-heading" colspan="2">Day 2 - Tuesday, June 9</th>
+          <th class="day-heading" colspan="2">Day 3 - Wednesday, June 10</th>
+        </tr>
+        <tr>
+          <th class="subheading">Time</th>
+          <th class="subheading">Activity</th>
+          <th class="subheading">Time</th>
+          <th class="subheading">Activity</th>
+          <th class="subheading">Time</th>
+          <th class="subheading">Activity</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="time-slot">09:00-09:20</td>
+          <td class="activity-cell">Welcome Message</td>
+          <td class="time-slot">09:00-10:00</td>
+          <td class="activity-cell">Plenary 2A - Gonzalo Mateos</td>
+          <td class="time-slot">09:00-10:00</td>
+          <td class="activity-cell">Plenary 3A - Luana Ruiz</td>
+        </tr>
+        <tr>
+          <td class="time-slot">09:20-10:20</td>
+          <td class="activity-cell">Plenary 1A - Paolo Di Lorenzo</td>
+          <td class="time-slot">10:00-11:00</td>
+          <td class="activity-cell">Morning Session 1 - Non-Linear GSP</td>
+          <td class="time-slot">10:00-11:00</td>
+          <td class="activity-cell">Morning Session - Graph Learning</td>
+        </tr>
+        <tr>
+          <td class="time-slot">10:20-11:20</td>
+          <td class="activity-cell">Morning Session 1 - Joint Time-Vertex GSP</td>
+          <td class="time-slot">11:00-11:30</td>
+          <td class="activity-cell">BBVA Coffee Break 2A</td>
+          <td class="time-slot">11:00-11:30</td>
+          <td class="activity-cell">Coffee Break A</td>
+        </tr>
+        <tr>
+          <td class="time-slot">11:20-11:50</td>
+          <td class="activity-cell">Coffee Break A</td>
+          <td class="time-slot">11:30-13:30</td>
+          <td class="activity-cell">Morning Session 2 - Poster Session</td>
+          <td class="time-slot">11:30-13:30</td>
+          <td class="activity-cell">Morning Session 2 - Geometric Deep Learning II</td>
+        </tr>
+        <tr>
+          <td class="time-slot">11:50-13:30</td>
+          <td class="activity-cell">Morning Session 2 - GSP Theory</td>
+          <td class="time-slot">13:30-15:00</td>
+          <td class="activity-cell">Lunch Break</td>
+          <td class="time-slot">13:30-15:00</td>
+          <td class="activity-cell">Lunch Break</td>
+        </tr>
+        <tr>
+          <td class="time-slot">13:30-15:00</td>
+          <td class="activity-cell">Lunch Break</td>
+          <td class="time-slot">15:00-16:00</td>
+          <td class="activity-cell">Plenary 2B - Daniel Palomar</td>
+          <td class="time-slot">15:00-16:00</td>
+          <td class="activity-cell">Afternoon Session - Higher Order SP + Topological SP IV</td>
+        </tr>
+        <tr>
+          <td class="time-slot">15:00-16:00</td>
+          <td class="activity-cell">Plenary 1B - Antonio Ortega</td>
+          <td class="time-slot">16:00-17:00</td>
+          <td class="activity-cell">Afternoon Session - Geometric Deep Learning I</td>
+          <td class="time-slot"></td>
+          <td class="activity-cell">Closing Ceremony</td>
+        </tr>
+        <tr>
+          <td class="time-slot">16:00-17:00</td>
+          <td class="activity-cell">Afternoon Session 1 - Higher Order SP + Topological SP I</td>
+          <td class="time-slot">17:00-17:30</td>
+          <td class="activity-cell">Coffee Break 2B</td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
+        </tr>
+        <tr>
+          <td class="time-slot">17:00-17:30</td>
+          <td class="activity-cell">Coffee Break B</td>
+          <td class="time-slot">17:30-18:30</td>
+          <td class="activity-cell">Afternoon Session - Higher Order SP + Topological SP III</td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
+        </tr>
+        <tr>
+          <td class="time-slot">17:30-18:30</td>
+          <td class="activity-cell">Afternoon Session 2 - Higher Order SP + Topological SP II</td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
+        </tr>
+        <tr class="spacer-row">
+          <td></td><td></td><td></td><td></td><td></td><td></td>
+        </tr>
+        <tr>
+          <td class="time-slot">20:30-22:30</td>
+          <td class="activity-cell">Welcome Reception (Casa Suecia)</td>
+          <td class="time-slot">21:00-23:00</td>
+          <td class="activity-cell">Banquet (Caf&eacute; Comercial)</td>
+          <td class="time-slot"></td>
+          <td class="activity-cell"></td>
         </tr>
       </tbody>
     </table>
