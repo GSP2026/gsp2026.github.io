@@ -158,6 +158,71 @@ top_image_alt: "GSP 2026 Madrid"
     height: 2.2rem;
   }
 
+  .dark-schedule-options {
+    display: none;
+  }
+
+  .schedule-option-label {
+    margin-bottom: 0.55rem;
+    font-weight: 700;
+  }
+
+  html[data-theme='dark'] .schedule-light-default {
+    display: none;
+  }
+
+  html[data-theme='dark'] .dark-schedule-options {
+    display: block;
+  }
+
+  html[data-theme='dark'] .schedule-dark-white .schedule-table {
+    background: #ffffff !important;
+    color: #222222 !important;
+  }
+
+  html[data-theme='dark'] .schedule-dark-white th,
+  html[data-theme='dark'] .schedule-dark-white td {
+    color: #222222 !important;
+  }
+
+  html[data-theme='dark'] .schedule-dark-white .title-heading {
+    background: rgba(40, 110, 180, 0.14) !important;
+  }
+
+  html[data-theme='dark'] .schedule-dark-white .day-heading {
+    background: rgba(40, 110, 180, 0.1) !important;
+  }
+
+  html[data-theme='dark'] .schedule-dark-native .schedule-table {
+    border-color: rgba(255, 255, 255, 0.22) !important;
+    background: #1f2328 !important;
+    color: #f1f5f9 !important;
+  }
+
+  html[data-theme='dark'] .schedule-dark-native th,
+  html[data-theme='dark'] .schedule-dark-native td {
+    color: #f1f5f9 !important;
+  }
+
+  html[data-theme='dark'] .schedule-dark-native .title-heading {
+    border-bottom-color: rgba(255, 255, 255, 0.22) !important;
+    background: rgba(64, 196, 255, 0.16) !important;
+  }
+
+  html[data-theme='dark'] .schedule-dark-native .day-heading {
+    background: rgba(64, 196, 255, 0.1) !important;
+  }
+
+  html[data-theme='dark'] .schedule-dark-native .day-heading + .day-heading,
+  html[data-theme='dark'] .schedule-dark-native tbody td:nth-child(3),
+  html[data-theme='dark'] .schedule-dark-native tbody td:nth-child(5) {
+    border-left-color: rgba(255, 255, 255, 0.2) !important;
+  }
+
+  html[data-theme='dark'] .schedule-dark-native .spacer-row td {
+    background: #1f2328 !important;
+  }
+
   .schedule-day-cards {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -228,7 +293,7 @@ top_image_alt: "GSP 2026 Madrid"
 
 Below is the conference schedule at a glance. Details about the plenary talks, oral sessions, and poster session are provided after the overview.
 
-<div class="schedule-preview schedule-detailed schedule-aesthetic-test">
+{% capture schedule_at_a_glance_table %}
   <div class="schedule-table-wrap">
     <table class="schedule-table">
       <thead>
@@ -335,6 +400,22 @@ Below is the conference schedule at a glance. Details about the plenary talks, o
         </tr>
       </tbody>
     </table>
+  </div>
+{% endcapture %}
+
+<div class="schedule-preview schedule-detailed schedule-aesthetic-test schedule-light-default">
+{{ schedule_at_a_glance_table }}
+</div>
+
+<div class="dark-schedule-options">
+  <div class="schedule-preview schedule-detailed schedule-aesthetic-test schedule-dark-white">
+    <div class="schedule-option-label">Dark mode option 1 - white table with dark text</div>
+    {{ schedule_at_a_glance_table }}
+  </div>
+
+  <div class="schedule-preview schedule-detailed schedule-aesthetic-test schedule-dark-native">
+    <div class="schedule-option-label">Dark mode option 2 - dark table with light text</div>
+    {{ schedule_at_a_glance_table }}
   </div>
 </div>
 
