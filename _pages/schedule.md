@@ -90,16 +90,17 @@ The provisional program for GSP 2026 is outlined below. A more detailed schedule
   }
 
   .schedule-detailed .schedule-table {
-    min-width: 1180px;
+    min-width: 0;
+    table-layout: fixed;
     border-collapse: collapse;
     background: #ffffff;
-    font-size: 0.92rem;
+    font-size: 0.84rem;
   }
 
   .schedule-detailed th,
   .schedule-detailed td {
     border: 1px solid rgba(0, 0, 0, 0.12);
-    padding: 0.55rem 0.65rem;
+    padding: 0.45rem 0.5rem;
     vertical-align: middle;
   }
 
@@ -117,13 +118,13 @@ The provisional program for GSP 2026 is outlined below. A more detailed schedule
   }
 
   .schedule-detailed .time-slot {
-    width: 7.8rem;
+    width: 10%;
     background: rgba(40, 110, 180, 0.05);
     font-weight: 600;
   }
 
   .schedule-detailed .activity-cell {
-    min-width: 13rem;
+    width: 23.33%;
   }
 
   .schedule-detailed .spacer-row td {
@@ -251,21 +252,21 @@ The detailed technical program below was extracted from the GSPTechnicalProgram2
           <td class="time-slot">09:00-09:20</td>
           <td class="activity-cell">Welcome Message</td>
           <td class="time-slot">09:00-10:00</td>
-          <td class="activity-cell">Plenary 2A - Gonzalo Mateos</td>
+          <td class="activity-cell">Plenary Gonzalo Mateos</td>
           <td class="time-slot">09:00-10:00</td>
-          <td class="activity-cell">Plenary 3A - Luana Ruiz</td>
+          <td class="activity-cell">Plenary Luana Ruiz</td>
         </tr>
         <tr>
           <td class="time-slot">09:20-10:20</td>
-          <td class="activity-cell">Plenary 1A - Paolo Di Lorenzo</td>
+          <td class="activity-cell">Plenary Paolo Di Lorenzo</td>
           <td class="time-slot">10:00-11:00</td>
-          <td class="activity-cell">Morning Session 1 - Non-Linear GSP</td>
+          <td class="activity-cell">Oral Session Tue-1</td>
           <td class="time-slot">10:00-11:00</td>
-          <td class="activity-cell">Morning Session - Graph Learning</td>
+          <td class="activity-cell">Oral Session Wed-1</td>
         </tr>
         <tr>
           <td class="time-slot">10:20-11:20</td>
-          <td class="activity-cell">Morning Session 1 - Joint Time-Vertex GSP</td>
+          <td class="activity-cell">Oral Session Mon-1</td>
           <td class="time-slot">11:00-11:30</td>
           <td class="activity-cell">BBVA Coffee Break 2A</td>
           <td class="time-slot">11:00-11:30</td>
@@ -275,13 +276,13 @@ The detailed technical program below was extracted from the GSPTechnicalProgram2
           <td class="time-slot">11:20-11:50</td>
           <td class="activity-cell">Coffee Break A</td>
           <td class="time-slot">11:30-13:30</td>
-          <td class="activity-cell">Morning Session 2 - Poster Session</td>
+          <td class="activity-cell">Poster Session</td>
           <td class="time-slot">11:30-13:30</td>
-          <td class="activity-cell">Morning Session 2 - Geometric Deep Learning II</td>
+          <td class="activity-cell">Oral Session Wed-2</td>
         </tr>
         <tr>
           <td class="time-slot">11:50-13:30</td>
-          <td class="activity-cell">Morning Session 2 - GSP Theory</td>
+          <td class="activity-cell">Oral Session Mon-2</td>
           <td class="time-slot">13:30-15:00</td>
           <td class="activity-cell">Lunch Break</td>
           <td class="time-slot">13:30-15:00</td>
@@ -291,21 +292,21 @@ The detailed technical program below was extracted from the GSPTechnicalProgram2
           <td class="time-slot">13:30-15:00</td>
           <td class="activity-cell">Lunch Break</td>
           <td class="time-slot">15:00-16:00</td>
-          <td class="activity-cell">Plenary 2B - Daniel Palomar</td>
+          <td class="activity-cell">Plenary Daniel Palomar</td>
           <td class="time-slot">15:00-16:00</td>
-          <td class="activity-cell">Afternoon Session - Higher Order SP + Topological SP IV</td>
+          <td class="activity-cell">Oral Session Wed-3</td>
         </tr>
         <tr>
           <td class="time-slot">15:00-16:00</td>
-          <td class="activity-cell">Plenary 1B - Antonio Ortega</td>
+          <td class="activity-cell">Plenary Antonio Ortega</td>
           <td class="time-slot">16:00-17:00</td>
-          <td class="activity-cell">Afternoon Session - Geometric Deep Learning I</td>
+          <td class="activity-cell">Oral Session Tue-2</td>
           <td class="time-slot"></td>
           <td class="activity-cell">Closing Ceremony</td>
         </tr>
         <tr>
           <td class="time-slot">16:00-17:00</td>
-          <td class="activity-cell">Afternoon Session 1 - Higher Order SP + Topological SP I</td>
+          <td class="activity-cell">Oral Session Mon-3</td>
           <td class="time-slot">17:00-17:30</td>
           <td class="activity-cell">Coffee Break 2B</td>
           <td class="time-slot"></td>
@@ -315,13 +316,13 @@ The detailed technical program below was extracted from the GSPTechnicalProgram2
           <td class="time-slot">17:00-17:30</td>
           <td class="activity-cell">Coffee Break B</td>
           <td class="time-slot">17:30-18:30</td>
-          <td class="activity-cell">Afternoon Session - Higher Order SP + Topological SP III</td>
+          <td class="activity-cell">Oral Session Tue-3</td>
           <td class="time-slot"></td>
           <td class="activity-cell"></td>
         </tr>
         <tr>
           <td class="time-slot">17:30-18:30</td>
-          <td class="activity-cell">Afternoon Session 2 - Higher Order SP + Topological SP II</td>
+          <td class="activity-cell">Oral Session Mon-4</td>
           <td class="time-slot"></td>
           <td class="activity-cell"></td>
           <td class="time-slot"></td>
