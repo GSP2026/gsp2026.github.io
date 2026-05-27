@@ -98,26 +98,27 @@ The provisional program for GSP 2026 is outlined below. A more detailed schedule
 
   .schedule-detailed th,
   .schedule-detailed td {
-    border: 1px solid rgba(0, 0, 0, 0.22);
+    border: 1px solid rgba(0, 0, 0, 0.12);
     padding: 0.55rem 0.65rem;
     vertical-align: middle;
   }
 
-  .schedule-detailed .day-heading {
-    background: #f5dccc;
+  .schedule-detailed .title-heading {
+    background: rgba(40, 110, 180, 0.12);
     text-align: left;
     font-weight: 700;
+    font-size: 1rem;
   }
 
-  .schedule-detailed .subheading {
-    background: #f8e8dc;
-    font-style: italic;
+  .schedule-detailed .day-heading {
+    background: rgba(40, 110, 180, 0.1);
+    text-align: left;
     font-weight: 700;
   }
 
   .schedule-detailed .time-slot {
     width: 7.8rem;
-    background: #fff5ee;
+    background: rgba(40, 110, 180, 0.05);
     font-weight: 600;
   }
 
@@ -126,7 +127,7 @@ The provisional program for GSP 2026 is outlined below. A more detailed schedule
   }
 
   .schedule-detailed .spacer-row td {
-    height: 1.25rem;
+    height: 2rem;
     background: #ffffff;
   }
 
@@ -227,27 +228,22 @@ The provisional program for GSP 2026 is outlined below. A more detailed schedule
 
 ---
 
-### Detailed Technical Program (from GSPTechnicalProgram2026)
+### Program At A Glance
 
 The detailed technical program below was extracted from the GSPTechnicalProgram2026 document. This version is provided for comparison with the provisional schedule shown above.
 
 <div class="schedule-preview schedule-detailed">
-  <div class="schedule-note">Detailed technical program (three-day view). Each day uses two columns: Time and Activity.</div>
+  <div class="schedule-note">Detailed technical program (three-day view).</div>
   <div class="schedule-table-wrap">
     <table class="schedule-table">
       <thead>
         <tr>
+          <th class="title-heading" colspan="6">GSP 2026 Schedule</th>
+        </tr>
+        <tr>
           <th class="day-heading" colspan="2">Day 1 - Monday, June 8</th>
           <th class="day-heading" colspan="2">Day 2 - Tuesday, June 9</th>
           <th class="day-heading" colspan="2">Day 3 - Wednesday, June 10</th>
-        </tr>
-        <tr>
-          <th class="subheading">Time</th>
-          <th class="subheading">Activity</th>
-          <th class="subheading">Time</th>
-          <th class="subheading">Activity</th>
-          <th class="subheading">Time</th>
-          <th class="subheading">Activity</th>
         </tr>
       </thead>
       <tbody>
