@@ -197,6 +197,25 @@ top_image_alt: "GSP 2026 Madrid"
     border-radius: 0 12px 12px 0;
   }
 
+  .plenary-speaker {
+    margin: -0.25rem 0 1rem;
+    font-size: 1.08rem;
+    line-height: 1.4;
+  }
+
+  .plenary-speaker strong {
+    font-size: 1.18rem;
+  }
+
+  .paper-title {
+    font-weight: 700;
+  }
+
+  .paper-authors {
+    color: var(--global-text-color-light);
+    font-size: 0.95rem;
+  }
+
   @media (max-width: 900px) {
     .schedule-day-cards {
       grid-template-columns: 1fr;
@@ -328,23 +347,23 @@ Below is the conference schedule at a glance. Details about the plenary talks, o
 
 ---
 
-#### General Information
+### General Information
 
-Lectures in the oral sessions are 20 minutes long, including Q&As. Posters should use A0 size in portrait orientation.
+Lectures in the oral sessions are 20 minutes long, including Q&As. We recommend authors to aim for a 15-minute presentation leaving a few minutos for questions and switching the speaker. Posters should use A0 size in portrait orientation.
 
-There will be two social events:
+There will be two social events during the conference:
 
 - Welcome Reception: Monday, June 8, 20:30-22:30, [Casa Suecia](https://www.google.com/maps/search/?api=1&query=Casa%20Suecia%20Madrid), Calle del Marqu&eacute;s de Casa Riera, 4, 28014 Madrid.
 - Conference Banquet: Tuesday, June 9, 21:00-23:00, [Caf&eacute; Comercial](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Comercial%20Madrid), Glorieta de Bilbao, 7, 28004 Madrid.
 
 ---
 
-#### Plenary Talks
+### Plenary Talks
 
 <p id="Paolo Di Lorenzo"></p>
 
-##### Plenary Monday 9:20 - 10:20
-[**Paolo Di Lorenzo**](https://research.uniroma1.it/researcher/161f6cb8ac97b460a616a4bc0ebe857b1ad100650298fee7e3ceb7f9), Sapienza University of Rome
+#### Plenary Monday 9:20 - 10:20
+<p class="plenary-speaker"><a href="https://research.uniroma1.it/researcher/161f6cb8ac97b460a616a4bc0ebe857b1ad100650298fee7e3ceb7f9"><strong>Paolo Di Lorenzo</strong></a>, Sapienza University of Rome</p>
 
 **Title**: Sheaf-theoretic Signal Processing and Learning
 
@@ -352,8 +371,8 @@ There will be two social events:
 
 <p id="Antonio Ortega"></p>
 
-##### Plenary Monday 15:00 - 16:00
-[**Antonio Ortega**](https://viterbi.usc.edu/directory/faculty/Ortega/Antonio), University of Southern California
+#### Plenary Monday 15:00 - 16:00
+<p class="plenary-speaker"><a href="https://viterbi.usc.edu/directory/faculty/Ortega/Antonio"><strong>Antonio Ortega</strong></a>, University of Southern California</p>
 
 **Title**: How to design fast GFTs
 
@@ -361,8 +380,8 @@ There will be two social events:
 
 <p id="Gonzalo Mateos"></p>
 
-##### Plenary Tuesday 9:00 - 10:00
-[**Gonzalo Mateos**](https://www.hajim.rochester.edu/ece/people/faculty/mateos_gonzalo/index.html), University of Rochester
+#### Plenary Tuesday 9:00 - 10:00
+<p class="plenary-speaker"><a href="https://www.hajim.rochester.edu/ece/people/faculty/mateos_gonzalo/index.html"><strong>Gonzalo Mateos</strong></a>, University of Rochester</p>
 
 **Title**: Concomitant Linear DAG Estimation
 
@@ -370,8 +389,8 @@ There will be two social events:
 
 <p id="Daniel P. Palomar"></p>
 
-##### Plenary Tuesday 15:00 - 16:00
-[**Daniel P. Palomar**](https://seng.hkust.edu.hk/about/people/faculty/daniel-p-palomar), The Hong Kong University of Science and Technology
+#### Plenary Tuesday 15:00 - 16:00
+<p class="plenary-speaker"><a href="https://seng.hkust.edu.hk/about/people/faculty/daniel-p-palomar"><strong>Daniel P. Palomar</strong></a>, The Hong Kong University of Science and Technology</p>
 
 **Title**: Graphs in Financial Markets
 
@@ -379,8 +398,8 @@ There will be two social events:
 
 <p id="Luana Ruiz"></p>
 
-##### Plenary Wednesday 9:00 - 10:00
-[**Luana Ruiz**](https://engineering.jhu.edu/ams/faculty/luana-ruiz/), Johns Hopkins University
+#### Plenary Wednesday 9:00 - 10:00
+<p class="plenary-speaker"><a href="https://engineering.jhu.edu/ams/faculty/luana-ruiz/"><strong>Luana Ruiz</strong></a>, Johns Hopkins University</p>
 
 **Title**: Distance-Preserving Graph Machine Learning
 
@@ -388,127 +407,80 @@ There will be two social events:
 
 ---
 
-#### Oral Sessions
+### Oral Sessions
 
 #### Oral Session Mon-1 (Monday 10:20 - 11:20) - Joint Time-Vertex GSP
-+ Subspace Projection Methods for Fast Spectral Embeddings of Evolving Graphs.
-Mohammad Eini (Michigan State University); Abdullah Karaaslanli (Michigan State University); Vassilis Kalantzis (IBM Research); Panagiotis Traganitis (Michigan State University).
-+ Locally Stationary Time-Vertex Process Models.
-Deniz Aslan (Middle East Technical University); Elif Vural (Middle East Technical University).
-+ Conformal Inference for Graphs.
-Sundeep Prabhakar Chepuri (Indian Institute of Science, Bangalore); Sonakshi Dua (Indian Institute of Science, Bangalore); Gonzalo Mateos (University of Rochester).
++ <span class="paper-title">Subspace Projection Methods for Fast Spectral Embeddings of Evolving Graphs.</span><br><span class="paper-authors">Mohammad Eini (Michigan State University); Abdullah Karaaslanli (Michigan State University); Vassilis Kalantzis (IBM Research); Panagiotis Traganitis (Michigan State University).</span>
++ <span class="paper-title">Locally Stationary Time-Vertex Process Models.</span><br><span class="paper-authors">Deniz Aslan (Middle East Technical University); Elif Vural (Middle East Technical University).</span>
++ <span class="paper-title">Conformal Inference for Graphs.</span><br><span class="paper-authors">Sundeep Prabhakar Chepuri (Indian Institute of Science, Bangalore); Sonakshi Dua (Indian Institute of Science, Bangalore); Gonzalo Mateos (University of Rochester).</span>
 
 #### Oral Session Mon-2 (Monday 11:50 - 13:30) - GSP Theory
-+ Möbius Model for Graph Signal Processing on Weighted DAGs.
-Vedran Mihal (ETH Zurich); Markus Püschel (ETH Zurich).
-+ Graph-Aware Diffusion for Signal Generation.
-Vimal Kumarasamy Balasubramanian (TU Delft); Sergio Rozada (URJC); Antonio G. Marques (URJC); Elvin Isufi (TU Delft); Hadi Jamali Rad (TU Delft); Andrea Cavallo (TU Delft).
-+ Learning Dirac Spectral Transforms for Topological Signals.
-Leonardo Di Nino (Sapienza, Università di Roma); Tiziana Cattai (Sapienza, Università di Roma); Sergio Barbarossa (Sapienza, Università di Roma); Ginestra Bianconi (School of Mathematical Sciences, Queen Mary University of London, UK); Paolo Di Lorenzo (Sapienza, Università di Roma).
-+ Sampling in the Graph Signal Processing Companion Model.
-John Shi (Carnegie Mellon University); Jose Moura (Carnegie Mellon University).
-+ Optimal Wiener-Filter Solutions for Denoising of Graph Signals on Directed Graphs.
-Chun Hei Michael Chan (EPFL); Alexandre Cionca (EPFL); Dimitri Van De Ville (EPFL).
++ <span class="paper-title">Möbius Model for Graph Signal Processing on Weighted DAGs.</span><br><span class="paper-authors">Vedran Mihal (ETH Zurich); Markus Püschel (ETH Zurich).</span>
++ <span class="paper-title">Graph-Aware Diffusion for Signal Generation.</span><br><span class="paper-authors">Vimal Kumarasamy Balasubramanian (TU Delft); Sergio Rozada (URJC); Antonio G. Marques (URJC); Elvin Isufi (TU Delft); Hadi Jamali Rad (TU Delft); Andrea Cavallo (TU Delft).</span>
++ <span class="paper-title">Learning Dirac Spectral Transforms for Topological Signals.</span><br><span class="paper-authors">Leonardo Di Nino (Sapienza, Università di Roma); Tiziana Cattai (Sapienza, Università di Roma); Sergio Barbarossa (Sapienza, Università di Roma); Ginestra Bianconi (School of Mathematical Sciences, Queen Mary University of London, UK); Paolo Di Lorenzo (Sapienza, Università di Roma).</span>
++ <span class="paper-title">Sampling in the Graph Signal Processing Companion Model.</span><br><span class="paper-authors">John Shi (Carnegie Mellon University); Jose Moura (Carnegie Mellon University).</span>
++ <span class="paper-title">Optimal Wiener-Filter Solutions for Denoising of Graph Signals on Directed Graphs.</span><br><span class="paper-authors">Chun Hei Michael Chan (EPFL); Alexandre Cionca (EPFL); Dimitri Van De Ville (EPFL).</span>
 
-#### Oral Session Mon-3 (Monday 16:00 - 17:00) - Higher Order SP + Topological SP I
-+ Don’t be Afraid of Cell Complexes! An Introduction to Cell Complexes and Topological Signal Processing from an Applied Perspective.
-Josef Hoppe (RWTH Aachen University); Vincent P. Grande (RWTH Aachen University); Michael T. Schaub (RWTH Aachen University).
-+ Scalable Higher-Order Topology Identification from Nodal Observations.
-Geert Leus (TU Delft); Elvin Isufi (TU Delft).
-+ Stationarity and Spectral Characterization of Random Signals on Simplicial Complexes.
-Madeline Navarro (Rice University); Andrei Buciulea Vlas (Universidad Rey Juan Carlos); Santiago Segarra (Rice University); Antonio G. Marques (Universidad Rey Juan Carlos).
+#### Oral Session Mon-3 (Monday 16:00 - 17:00) - Higher Order SP & Topological SP I
++ <span class="paper-title">Don’t be Afraid of Cell Complexes! An Introduction to Cell Complexes and Topological Signal Processing from an Applied Perspective.</span><br><span class="paper-authors">Josef Hoppe (RWTH Aachen University); Vincent P. Grande (RWTH Aachen University); Michael T. Schaub (RWTH Aachen University).</span>
++ <span class="paper-title">Scalable Higher-Order Topology Identification from Nodal Observations.</span><br><span class="paper-authors">Geert Leus (TU Delft); Elvin Isufi (TU Delft).</span>
++ <span class="paper-title">Stationarity and Spectral Characterization of Random Signals on Simplicial Complexes.</span><br><span class="paper-authors">Madeline Navarro (Rice University); Andrei Buciulea Vlas (Universidad Rey Juan Carlos); Santiago Segarra (Rice University); Antonio G. Marques (Universidad Rey Juan Carlos).</span>
 
-#### Oral Session Mon-4 (Monday 17:30 - 18:30) - Higher Order SP + Topological SP II
-+ Vertex-frequency Hypergraph Signal Processing: Analytic Tools and Applications.
-Alcebiades Dal Col (Federal University of Espirito Santo); Fabiano Petronetto (Federal University of Espirito Santo); José R. de Oliveira Neto (Federal University of Pernambuco); Juliano B. Lima (Federal University of Pernambuco).
-+ Framework for Directed Hypergraph Signal Processing via tensor t-SVD.
-Carlos Mundo Levano (University of Delaware); Nicolas Bello (University of Delaware); Dan Lau (University of Kentucky); Gonzalo Arce (University of Delaware).
-+ Processing Probabilistic Signals on Causal Abstraction Networks.
-Gabriele D'Acunto (Sapienza University); Paolo Di Lorenzo (Sapienza University); Sergio Barbarossa (Sapienza University).
+#### Oral Session Mon-4 (Monday 17:30 - 18:30) - Higher Order SP & Topological SP II
++ <span class="paper-title">Vertex-frequency Hypergraph Signal Processing: Analytic Tools and Applications.</span><br><span class="paper-authors">Alcebiades Dal Col (Federal University of Espirito Santo); Fabiano Petronetto (Federal University of Espirito Santo); José R. de Oliveira Neto (Federal University of Pernambuco); Juliano B. Lima (Federal University of Pernambuco).</span>
++ <span class="paper-title">Framework for Directed Hypergraph Signal Processing via tensor t-SVD.</span><br><span class="paper-authors">Carlos Mundo Levano (University of Delaware); Nicolas Bello (University of Delaware); Dan Lau (University of Kentucky); Gonzalo Arce (University of Delaware).</span>
++ <span class="paper-title">Processing Probabilistic Signals on Causal Abstraction Networks.</span><br><span class="paper-authors">Gabriele D'Acunto (Sapienza University); Paolo Di Lorenzo (Sapienza University); Sergio Barbarossa (Sapienza University).</span>
 
 #### Oral Session Tue-1 (Tuesday 10:00 - 11:00) - Non-Linear GSP
-+ Nonstationary Graph Filters Based on Localized Frames.
-Philipp Reingruber (TU Wien); Gerald Matz (TU Wien).
-+ Covariance Scattering Transforms.
-Andrea Cavallo (Delft University of Technology); Elvin Isufi (Delft University of Technology).
-+ Sample entropy for graph signals: An approach to nonlinear analysis of graph signals.
-Mei san lei (University of Edinburgh); John Stewart Fabila-Carrasco (University of Cardiff); Javier Escudero (University of Edinburgh).
++ <span class="paper-title">Nonstationary Graph Filters Based on Localized Frames.</span><br><span class="paper-authors">Philipp Reingruber (TU Wien); Gerald Matz (TU Wien).</span>
++ <span class="paper-title">Covariance Scattering Transforms.</span><br><span class="paper-authors">Andrea Cavallo (Delft University of Technology); Elvin Isufi (Delft University of Technology).</span>
++ <span class="paper-title">Sample entropy for graph signals: An approach to nonlinear analysis of graph signals.</span><br><span class="paper-authors">Mei san lei (University of Edinburgh); John Stewart Fabila-Carrasco (University of Cardiff); Javier Escudero (University of Edinburgh).</span>
 
 #### Oral Session Tue-2 (Tuesday 16:00 - 17:00) - Geometric Deep Learning I
-+ Unrolling Dynamic Programming via Graph Filters.
-Sergio Rozada (URJC); Samuel Rey (URJC); Gonzalo Mateos (University of Rochester); Antonio G. Marques (URJC).
-+ Advection–Diffusion on Graphs: A Bakry–Émery Laplacian for Spectral Graph Neural Networks.
-Mia Zosso (EPFL); Pierre Vandergheynst (EPFL); Victor Kawasaki-Borruat (EPFL); Ali Hariri (EPFL); Pierre-Gabriel Berlureau (ENS).
-+ Adaptive Node Feature Selection for Graph Neural Networks.
-Madeline Navarro (Rice University).
++ <span class="paper-title">Unrolling Dynamic Programming via Graph Filters.</span><br><span class="paper-authors">Sergio Rozada (URJC); Samuel Rey (URJC); Gonzalo Mateos (University of Rochester); Antonio G. Marques (URJC).</span>
++ <span class="paper-title">Advection–Diffusion on Graphs: A Bakry–Émery Laplacian for Spectral Graph Neural Networks.</span><br><span class="paper-authors">Mia Zosso (EPFL); Pierre Vandergheynst (EPFL); Victor Kawasaki-Borruat (EPFL); Ali Hariri (EPFL); Pierre-Gabriel Berlureau (ENS).</span>
++ <span class="paper-title">Adaptive Node Feature Selection for Graph Neural Networks.</span><br><span class="paper-authors">Madeline Navarro (Rice University).</span>
 
-#### Oral Session Tue-3 (Tuesday 17:30 - 18:30) - Higher Order SP + Topological SP III
-+ Joint Simplicial Complex Learning via Binary Linear Programming.
-Varun Sarathchandran (Delft University of Technology); Geert Leus (Delft University of Technology).
-+ Cross-Laplacians Based Topological Signal Processing over Cell MultiComplexes.
-Stefania Sardellitti (University Mercatorum); Breno C. Bispo (Federal University of Pernambuco); Fernando A. N. Santos (University of Amsterdam); Juliano B. Lima (Federal University of Pernambuco).
-+ Hodge-Aware Surrogates for Testing Stationarity in Topological Signals.
-Flavia Petruso (EPFL); Chun Hei Michael Chan (EPFL); Dimitri Van De Ville (EPFL).
+#### Oral Session Tue-3 (Tuesday 17:30 - 18:30) - Higher Order SP & Topological SP III
++ <span class="paper-title">Joint Simplicial Complex Learning via Binary Linear Programming.</span><br><span class="paper-authors">Varun Sarathchandran (Delft University of Technology); Geert Leus (Delft University of Technology).</span>
++ <span class="paper-title">Cross-Laplacians Based Topological Signal Processing over Cell MultiComplexes.</span><br><span class="paper-authors">Stefania Sardellitti (University Mercatorum); Breno C. Bispo (Federal University of Pernambuco); Fernando A. N. Santos (University of Amsterdam); Juliano B. Lima (Federal University of Pernambuco).</span>
++ <span class="paper-title">Hodge-Aware Surrogates for Testing Stationarity in Topological Signals.</span><br><span class="paper-authors">Flavia Petruso (EPFL); Chun Hei Michael Chan (EPFL); Dimitri Van De Ville (EPFL).</span>
 
 #### Oral Session Wed-1 (Wednesday 10:00 - 11:00) - Graph Learning
-+ A Covariance Matching Approach to Graph Topology Identification.
-Yongsheng Han (TU Delft); Geert Leus (TU Delft); Raj Rajan (TU Delft).
-+ BUILD with precision: Bottom-up inference of linear DAGs.
-Hamed Ajorlou (University of Rochester); Samuel Rey (King Juan Carlos University); Gonzalo Mateos (University of Rochester); Geert Leus (TU Delft); Antonio G. Marques (King Juan Carlos University).
-+ Sparsity-Aware Extended Kalman Filter for Tracking Dynamic Graphs.
-Lital Dabush (Ben-Gurion University); Nir Shlezinger (Ben-Gurion University); Tirza Routtenberg (Ben-Gurion University).
++ <span class="paper-title">A Covariance Matching Approach to Graph Topology Identification.</span><br><span class="paper-authors">Yongsheng Han (TU Delft); Geert Leus (TU Delft); Raj Rajan (TU Delft).</span>
++ <span class="paper-title">BUILD with precision: Bottom-up inference of linear DAGs.</span><br><span class="paper-authors">Hamed Ajorlou (University of Rochester); Samuel Rey (King Juan Carlos University); Gonzalo Mateos (University of Rochester); Geert Leus (TU Delft); Antonio G. Marques (King Juan Carlos University).</span>
++ <span class="paper-title">Sparsity-Aware Extended Kalman Filter for Tracking Dynamic Graphs.</span><br><span class="paper-authors">Lital Dabush (Ben-Gurion University); Nir Shlezinger (Ben-Gurion University); Tirza Routtenberg (Ben-Gurion University).</span>
 
 #### Oral Session Wed-2 (Wednesday 11:30 - 13:30) - Geometric Deep Learning II
-+ Fixed Aggregation Features Can Rival GNNs.
-Celia Rubio-Madrigal (CISPA Helmholtz Center for Information Security); Rebekka Burkholz (CISPA Helmholtz Center for Information Security).
-+ Size Transferability of Graph Transformers with Convolutional Positional Encodings.
-Javier Porras Valenzuela (University of Pennsylvania); Zhiyang Wang (University of California San Diego); Xiaotao Shang (University of Pennsylvania); Yusu Wang (University of California San Diego); Alejandro Ribeiro (University of Pennsylvania).
-+ A Graph Attention Network Approach to Super-Resolution Spatial Transcriptomic Data.
-Luis Alonso (University of Navarra); Mikel Hernaez (University of Navarra); Idoia Ochoa (University of Navarra).
-+ L2G-Net: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations.
-Samuel Fernandez (University of Southern California); Eduardo Pavez (University of Southern California); Antonio Ortega (University of Southern California).
-+ Graph Signal Diffusion Models for Wireless Resource Allocation.
-Yigit Berkay Uslu (University of Pennsylvania); Samar Hadou (University of Pennsylvania); Shirin Saeedi Bidokhti (University of Pennsylvania); Alejandro Ribeiro (University of Pennsylvania).
-+ On the Effectiveness of Pretraining for Graph Combinatorial Optimization.
-David Aguado (Universidad Politécnica de Madrid); Daniel Fuertes (Universidad Politécnica de Madrid); Carlos R. del-Blanco (Universidad Politécnica de Madrid); Fernando Jaureguizar (Universidad Politécnica de Madrid).
++ <span class="paper-title">Fixed Aggregation Features Can Rival GNNs.</span><br><span class="paper-authors">Celia Rubio-Madrigal (CISPA Helmholtz Center for Information Security); Rebekka Burkholz (CISPA Helmholtz Center for Information Security).</span>
++ <span class="paper-title">Size Transferability of Graph Transformers with Convolutional Positional Encodings.</span><br><span class="paper-authors">Javier Porras Valenzuela (University of Pennsylvania); Zhiyang Wang (University of California San Diego); Xiaotao Shang (University of Pennsylvania); Yusu Wang (University of California San Diego); Alejandro Ribeiro (University of Pennsylvania).</span>
++ <span class="paper-title">A Graph Attention Network Approach to Super-Resolution Spatial Transcriptomic Data.</span><br><span class="paper-authors">Luis Alonso (University of Navarra); Mikel Hernaez (University of Navarra); Idoia Ochoa (University of Navarra).</span>
++ <span class="paper-title">L2G-Net: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations.</span><br><span class="paper-authors">Samuel Fernandez (University of Southern California); Eduardo Pavez (University of Southern California); Antonio Ortega (University of Southern California).</span>
++ <span class="paper-title">Graph Signal Diffusion Models for Wireless Resource Allocation.</span><br><span class="paper-authors">Yigit Berkay Uslu (University of Pennsylvania); Samar Hadou (University of Pennsylvania); Shirin Saeedi Bidokhti (University of Pennsylvania); Alejandro Ribeiro (University of Pennsylvania).</span>
++ <span class="paper-title">On the Effectiveness of Pretraining for Graph Combinatorial Optimization.</span><br><span class="paper-authors">David Aguado (Universidad Politécnica de Madrid); Daniel Fuertes (Universidad Politécnica de Madrid); Carlos R. del-Blanco (Universidad Politécnica de Madrid); Fernando Jaureguizar (Universidad Politécnica de Madrid).</span>
 
-#### Oral Session Wed-3 (Wednesday 15:00 - 16:00) - Higher Order SP + Topological SP IV
-+ STORM: Simplicial Topological Recurrent Model for Dynamics on Higher-Order Domains.
-Mohamed Salah Jebali (TU Delft); Elvin Isufi (TU Delft); Claudio Battiloro (Harvard).
-+ A Graph-Structured VAR Model for Data with Higher Order Temporal Dependencies and Heavy Tails.
-Amirhossein Javaheri (KTH Royal Institute of Technology); Saikat Chatterjee (KTH Royal Institute of Technology); Daniel Palomar (Hong Kong University of Science and Technology).
-+ A Framework for Directed Acyclic Hypergraph Learning.
-Zhiyuan Dong (University of Delaware); Carlos Mundo-Levano (University of Delaware); Gonzalo R. Arce (University of Delaware); Wei Qian (University of Delaware); Daniel Lau (University of Kentucky).
+#### Oral Session Wed-3 (Wednesday 15:00 - 16:00) - Higher Order SP & Topological SP IV
++ <span class="paper-title">STORM: Simplicial Topological Recurrent Model for Dynamics on Higher-Order Domains.</span><br><span class="paper-authors">Mohamed Salah Jebali (TU Delft); Elvin Isufi (TU Delft); Claudio Battiloro (Harvard).</span>
++ <span class="paper-title">A Graph-Structured VAR Model for Data with Higher Order Temporal Dependencies and Heavy Tails.</span><br><span class="paper-authors">Amirhossein Javaheri (KTH Royal Institute of Technology); Saikat Chatterjee (KTH Royal Institute of Technology); Daniel Palomar (Hong Kong University of Science and Technology).</span>
++ <span class="paper-title">A Framework for Directed Acyclic Hypergraph Learning.</span><br><span class="paper-authors">Zhiyuan Dong (University of Delaware); Carlos Mundo-Levano (University of Delaware); Gonzalo R. Arce (University of Delaware); Wei Qian (University of Delaware); Daniel Lau (University of Kentucky).</span>
 
 ---
 
-#### Poster Session
+### Poster Session
 
 #### Poster Session (Tuesday 11:30 - 13:30)
-+ Topological Kalman Filtering on Cell Complexes.
-Chengen Liu (Delft University of Technology).
-+ GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring.
-Celia Rubio-Madrigal (CISPA Helmholtz Center for Information Security); Adarsh Jamadandi (IRISA, University of Rennes); Rebekka Burkholz (CISPA Helmholtz Center for Information Security).
-+ Distance-Misaligned Training in Graph Transformers and Adaptive Graph-Aware Control.
-Qinhan Hou (University of Helsinki); Jing Tang (University of Helsinki).
-+ Data-Driven Higher-Order Topology Learning for Leak Detection in Dynamic Water Distribution Networks.
-Tiziana Cattai (Sapienza University of Rome); Stefania Sardellitti (Universitas Mercatorum); Stefania Colonnese (Sapienza University of Rome); Francesca Cuomo (Sapienza University of Rome); Sergio Barbarossa (Sapienza University of Rome).
-+ ADAPTIVEMIXGNN: Local Adaptive Inductive Bias for Heterophilic Node Classification.
-Miguel Alcocer (King Juan Carlos University, Madrid); Javier Muñoz (King Juan Carlos University, Madrid); Álvaro Morán (King Juan Carlos University, Madrid).
-+ Planar Horizontal Visibility Graphs for Chromatin Dynamics Analysis: Applications to Cellular Metabolic States.
-Lucía Benito (Universidad Francisco de Vitoria); Diego Herráez (Universidad Francisco de Vitoria).
-+ A Sheaf-Theoretic Framework for Distributed Multi-Site Channel Charting.
-Enrico Grimaldi (Sapienza University of Rome); Leonardo Di Nino (Sapienza University of Rome); Mario Edoardo Pandolfo (Sapienza University of Rome); Gabriele D'Acunto (Sapienza University of Rome); Sergio Barbarossa (Sapienza University of Rome); Paolo Di Lorenzo (Sapienza University of Rome).
-+ Shattering the Speed-Accuracy Dichotomy in Asymmetric Routing via Anisotropic GNNs.
-Gonzalo Mantiñán Suárez (Universidad Politécnica de Madrid); Daniel Fuertes (Universidad Politécnica de Madrid); Carlos R. del-Blanco (Universidad Politécnica de Madrid); Fernando Jaureguizar (Universidad Politécnica de Madrid).
-+ Precision Neural Networks: Joint Graph and Relational Learning.
-Andrea Cavallo (Delft University of Technology).
-+ Learning Dynamics in Streaming Weighted Higher-Order Networks.
-Rohan Thekkemarickal Money (Simula); Baltasar Beferull-Lozano (Simula Metropolitan Center for Digital Engineering); Elvin Isufi (TU Delft).
-+ Enhancing Transformer-based Routing by Encoding Distance via Relative Positional Encoding.
-Leyre Encío (Universidad Politécnica de Madrid); Daniel Fuertes (Universidad Politécnica de Madrid); Carlos R. del-Blanco (Universidad Politécnica de Madrid); Fernando Jaureguizar (Universidad Politécnica de Madrid).
-+ Random Spectral Features for Graph Kernel Machines.
-Valentin de Bassompierre (UCLouvain); Laurent Jacques (UCLouvain); Jean-Charles Delvenne (UCLouvain).
++ <span class="paper-title">Topological Kalman Filtering on Cell Complexes.</span><br><span class="paper-authors">Chengen Liu (Delft University of Technology).</span>
++ <span class="paper-title">GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring.</span><br><span class="paper-authors">Celia Rubio-Madrigal (CISPA Helmholtz Center for Information Security); Adarsh Jamadandi (IRISA, University of Rennes); Rebekka Burkholz (CISPA Helmholtz Center for Information Security).</span>
++ <span class="paper-title">Distance-Misaligned Training in Graph Transformers and Adaptive Graph-Aware Control.</span><br><span class="paper-authors">Qinhan Hou (University of Helsinki); Jing Tang (University of Helsinki).</span>
++ <span class="paper-title">Data-Driven Higher-Order Topology Learning for Leak Detection in Dynamic Water Distribution Networks.</span><br><span class="paper-authors">Tiziana Cattai (Sapienza University of Rome); Stefania Sardellitti (Universitas Mercatorum); Stefania Colonnese (Sapienza University of Rome); Francesca Cuomo (Sapienza University of Rome); Sergio Barbarossa (Sapienza University of Rome).</span>
++ <span class="paper-title">ADAPTIVEMIXGNN: Local Adaptive Inductive Bias for Heterophilic Node Classification.</span><br><span class="paper-authors">Miguel Alcocer (King Juan Carlos University, Madrid); Javier Muñoz (King Juan Carlos University, Madrid); Álvaro Morán (King Juan Carlos University, Madrid).</span>
++ <span class="paper-title">Planar Horizontal Visibility Graphs for Chromatin Dynamics Analysis: Applications to Cellular Metabolic States.</span><br><span class="paper-authors">Lucía Benito (Universidad Francisco de Vitoria); Diego Herráez (Universidad Francisco de Vitoria).</span>
++ <span class="paper-title">A Sheaf-Theoretic Framework for Distributed Multi-Site Channel Charting.</span><br><span class="paper-authors">Enrico Grimaldi (Sapienza University of Rome); Leonardo Di Nino (Sapienza University of Rome); Mario Edoardo Pandolfo (Sapienza University of Rome); Gabriele D'Acunto (Sapienza University of Rome); Sergio Barbarossa (Sapienza University of Rome); Paolo Di Lorenzo (Sapienza University of Rome).</span>
++ <span class="paper-title">Shattering the Speed-Accuracy Dichotomy in Asymmetric Routing via Anisotropic GNNs.</span><br><span class="paper-authors">Gonzalo Mantiñán Suárez (Universidad Politécnica de Madrid); Daniel Fuertes (Universidad Politécnica de Madrid); Carlos R. del-Blanco (Universidad Politécnica de Madrid); Fernando Jaureguizar (Universidad Politécnica de Madrid).</span>
++ <span class="paper-title">Precision Neural Networks: Joint Graph and Relational Learning.</span><br><span class="paper-authors">Andrea Cavallo (Delft University of Technology).</span>
++ <span class="paper-title">Learning Dynamics in Streaming Weighted Higher-Order Networks.</span><br><span class="paper-authors">Rohan Thekkemarickal Money (Simula); Baltasar Beferull-Lozano (Simula Metropolitan Center for Digital Engineering); Elvin Isufi (TU Delft).</span>
++ <span class="paper-title">Enhancing Transformer-based Routing by Encoding Distance via Relative Positional Encoding.</span><br><span class="paper-authors">Leyre Encío (Universidad Politécnica de Madrid); Daniel Fuertes (Universidad Politécnica de Madrid); Carlos R. del-Blanco (Universidad Politécnica de Madrid); Fernando Jaureguizar (Universidad Politécnica de Madrid).</span>
++ <span class="paper-title">Random Spectral Features for Graph Kernel Machines.</span><br><span class="paper-authors">Valentin de Bassompierre (UCLouvain); Laurent Jacques (UCLouvain); Jean-Charles Delvenne (UCLouvain).</span>
 
 <!--
 <div class="schedule-preview">
