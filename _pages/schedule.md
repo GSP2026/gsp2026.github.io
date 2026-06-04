@@ -500,6 +500,7 @@ There will be two social events during the conference:
 ### Poster Session
 
 #### Poster Session (Tuesday 11:30 - 13:30)
++ <span class="paper-title">Causality-driven Disentangled Representation Learning in Multiplex Graphs.</span><br><span class="paper-authors">Saba Nasiri, Selin Aviyente (Michigan State University), Dorina Thanou (EPFL).</span>
 + <span class="paper-title">Topological Kalman Filtering on Cell Complexes.</span><br><span class="paper-authors">Chengen Liu (Delft University of Technology).</span>
 + <span class="paper-title">Learning Graph Topology with Functional Priors: A Graph Formation Model Perspective.</span><br><span class="paper-authors">Chenyue Zhang (Chinese University of Hong Kong); Shangyuan Liu (Chinese University of Hong Kong); Hoi-To Wai (Chinese University of Hong Kong); Anthony Man-Cho So (Chinese University of Hong Kong).</span>
 + <span class="paper-title">GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring.</span><br><span class="paper-authors">Celia Rubio-Madrigal (CISPA Helmholtz Center for Information Security); Adarsh Jamadandi (IRISA, University of Rennes); Rebekka Burkholz (CISPA Helmholtz Center for Information Security).</span>
