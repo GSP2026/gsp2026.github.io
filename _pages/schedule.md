@@ -491,7 +491,7 @@ There will be two social events during the conference:
 + <span class="paper-title">On the Effectiveness of Pretraining for Graph Combinatorial Optimization.</span><br><span class="paper-authors">David Aguado (Universidad Politécnica de Madrid); Daniel Fuertes (Universidad Politécnica de Madrid); Carlos R. del-Blanco (Universidad Politécnica de Madrid); Fernando Jaureguizar (Universidad Politécnica de Madrid).</span>
 
 #### Oral Session Wed-3 (Wednesday 15:00 - 16:00) - Higher Order SP & Topological SP IV
-+ <span class="paper-title">STORM: Simplicial Topological Recurrent Model for Dynamics on Higher-Order Domains.</span><br><span class="paper-authors">Mohamed Salah Jebali (TU Delft); Elvin Isufi (TU Delft); Claudio Battiloro (Harvard).</span>
++ <span class="paper-title">STORM: Simplicial Topological Recurrent Model for Dynamics on Higher-Order Domains.</span><br><span class="paper-authors">Mohamed Salah Jebali (TU Delft); Claudio Battiloro (Harvard); Elvin Isufi (TU Delft).</span>
 + <span class="paper-title">A Graph-Structured VAR Model for Data with Higher Order Temporal Dependencies and Heavy Tails.</span><br><span class="paper-authors">Amirhossein Javaheri (KTH Royal Institute of Technology); Saikat Chatterjee (KTH Royal Institute of Technology); Daniel Palomar (Hong Kong University of Science and Technology).</span>
 + <span class="paper-title">A Framework for Directed Acyclic Hypergraph Learning.</span><br><span class="paper-authors">Zhiyuan Dong (University of Delaware); Carlos Mundo-Levano (University of Delaware); Gonzalo R. Arce (University of Delaware); Wei Qian (University of Delaware); Daniel Lau (University of Kentucky).</span>
 
