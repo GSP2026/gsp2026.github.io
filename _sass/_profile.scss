@@ -70,6 +70,15 @@
     }
 }
 
+.instructor-info li.speaker-resources {
+    font-size: 0.95rem;
+
+    span {
+        margin: 0 0.25rem;
+        color: var(--global-text-color-light);
+    }
+}
+
 
 .instructor-profile-two-col {
     @extend %instructor-profile;
@@ -131,4 +140,3 @@
     background-color: var(--global-bg-color);
     cursor: pointer;
 }
-

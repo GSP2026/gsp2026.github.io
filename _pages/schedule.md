@@ -238,6 +238,16 @@ top_image_alt: "GSP 2026 Madrid"
     font-size: 1.18rem;
   }
 
+  .plenary-resources {
+    margin: -0.7rem 0 1rem;
+    font-size: 0.95rem;
+  }
+
+  .plenary-resources span {
+    margin: 0 0.35rem;
+    color: var(--global-text-color-light);
+  }
+
   .paper-title {
     font-weight: 700;
   }
@@ -395,6 +405,7 @@ There will be two social events during the conference:
 
 #### Plenary Monday 9:20 - 10:20
 <p class="plenary-speaker"><a href="https://research.uniroma1.it/researcher/161f6cb8ac97b460a616a4bc0ebe857b1ad100650298fee7e3ceb7f9"><strong>Paolo Di Lorenzo</strong></a>, Sapienza University of Rome</p>
+<p class="plenary-resources"><a href="https://tv.urjc.es/video/6a27bdb38608dd59a7006f74" target="_blank" rel="noopener">Video</a><span aria-hidden="true">&middot;</span><a href="{{ '/assets/slides2026/plenaries/PaoloDiLorenzo.pdf' | relative_url }}" target="_blank">Slides</a></p>
 
 **Title**: Sheaf-theoretic Signal Processing and Learning
 
@@ -404,6 +415,7 @@ There will be two social events during the conference:
 
 #### Plenary Monday 15:00 - 16:00
 <p class="plenary-speaker"><a href="https://viterbi.usc.edu/directory/faculty/Ortega/Antonio"><strong>Antonio Ortega</strong></a>, University of Southern California</p>
+<p class="plenary-resources"><a href="https://tv.urjc.es/video/6a2821d9dc45b9286e0f3e37" target="_blank" rel="noopener">Video</a><span aria-hidden="true">&middot;</span><a href="{{ '/assets/slides2026/plenaries/AntonioOrtega-Fast_GFTs.pdf' | relative_url }}" target="_blank">Slides</a></p>
 
 **Title**: How to design fast GFTs
 
@@ -413,6 +425,7 @@ There will be two social events during the conference:
 
 #### Plenary Tuesday 9:00 - 10:00
 <p class="plenary-speaker"><a href="https://www.hajim.rochester.edu/ece/people/faculty/mateos_gonzalo/index.html"><strong>Gonzalo Mateos</strong></a>, University of Rochester</p>
+<p class="plenary-resources"><a href="https://tv.urjc.es/video/6a290d7a16c7384cc2034ad4" target="_blank" rel="noopener">Video</a><span aria-hidden="true">&middot;</span><a href="{{ '/assets/slides2026/plenaries/GonzaloMateos-CoLiDE_slides.pdf' | relative_url }}" target="_blank">Slides</a></p>
 
 **Title**: Concomitant Linear DAG Estimation
 
@@ -422,6 +435,7 @@ There will be two social events during the conference:
 
 #### Plenary Tuesday 15:00 - 16:00
 <p class="plenary-speaker"><a href="https://seng.hkust.edu.hk/about/people/faculty/daniel-p-palomar"><strong>Daniel P. Palomar</strong></a>, The Hong Kong University of Science and Technology</p>
+<p class="plenary-resources"><a href="https://tv.urjc.es/video/6a290fd6922c6523ab0717ff" target="_blank" rel="noopener">Video</a><span aria-hidden="true">&middot;</span><a href="{{ '/assets/slides2026/plenaries/DanielPalomar-slides-keynote-palomar-GSPW2026.pdf' | relative_url }}" target="_blank">Slides</a></p>
 
 **Title**: Graphs in Financial Markets
 
@@ -431,6 +445,7 @@ There will be two social events during the conference:
 
 #### Plenary Wednesday 9:00 - 10:00
 <p class="plenary-speaker"><a href="https://engineering.jhu.edu/ams/faculty/luana-ruiz/"><strong>Luana Ruiz</strong></a>, Johns Hopkins University</p>
+<p class="plenary-resources"><a href="https://tv.urjc.es/video/6a29b8ce617f19f93e0c8398" target="_blank" rel="noopener">Video</a><span aria-hidden="true">&middot;</span><a href="{{ '/assets/slides2026/plenaries/LuanaRuiz-distance-preserving-gml-GSPW-2026.pdf' | relative_url }}" target="_blank">Slides</a></p>
 
 **Title**: Distance-Preserving Graph Machine Learning
 
