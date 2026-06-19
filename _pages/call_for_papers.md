@@ -15,7 +15,7 @@ top_image_alt: "GSP 2026 Madrid"
 + ~~**Submission deadline:** April 6, 2026~~
 + ~~**Notification of acceptance:** April 10, 2026~~
 + ~~**Early registration:** April 20, 2026~~
-+ **Workshop:** June 8-10, 2026
++ ~~**Workshop:** June 8-10, 2026~~
 
 ---
 #### Extended Abstracts Track
